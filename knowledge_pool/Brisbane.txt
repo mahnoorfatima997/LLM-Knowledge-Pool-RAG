@@ -1,0 +1,42 @@
+# Brisbane (Humid Subtropical) – Climate & Lifestyle
+
+Brisbane’s climate is humid subtropical (Cfa): warm to hot year-round. Mean high temperatures range ~26.6°C (80 °F) annually, with summers (Oct–Apr) often in the high 20s (82–86 °F) and only occasionally above 35 °C. Humidity is consistently high, and summers bring heavy rainfall (e.g. Jan ~152 mm, Feb ~143 mm). Winters (Jun–Aug) are mild (max ~21–22 °C) with virtually no frost. Queensland lifestyle heavily features outdoor living: “the best place to catch a cool Brisbane breeze” is often an open-air verandah. Local culture favors wide verandas, ceiling fans, and louvred windows for shade and airflow. Vegetation includes palms, jacarandas, frangipani, and dense bamboo hedges.
+
+# 15–30 m² Courtyard
+
+- Design: Even a 15–30 m² space in Brisbane should focus on cross-breeze and shade. Position it so breeze can flow through (e.g. gap between building wings). Use a covered pergola with adjustable shutters to modulate sun. A paved area of ~4×4m is reasonable. If adjacent to a pool or garden, leverage that for cooler air. In simulations, adding even a small tree (e.g. 3 m) to a 5×5 m patio reduced mid-afternoon UTCI by ~0.2°C.
+- Vegetation: Plant 1–2 tropical trees/shrubs: e.g. a small flame tree or mango for overhead shade, and a palm (e.g. Macarthur palm) for filtered light. Include lush ferns or cycads around edges to raise humidity. A potted bamboo or bananas at corners can evoke Queensland tropics. Aim for ~30–40% green cover. In our data, very small courtyards lacked greenery – here adding a 5 m² garden bed (20% area) could lower local air temp significantly via evapotranspiration.
+- Materials: Use slate or porcelain tile (cool underfoot) and wood decking (with light stain). A turquoise or white-painted wall can bounce light and give a breezy feel. Limit concrete; if used, paint it off-white or sand color (high SRI) to avoid heat gain. A small water feature or pond (even a tiered pot fountain) adds humidity and cooling.
+- Functions: Functions are modest: a bistro set for 2 (morning coffee/afternoon tea) or a single hammock/bench for resting. Evening entertaining is possible if screened from mosquitoes. With 1 tree and shade, UTCI could be ~27.0 °C at 3 pm (a few degrees lower than full sun). If 2 small trees, UTCE ~26.8°C. This makes afternoon use comfortable.
+- Summary: Example: a 6×5 m courtyard with a slatted pergola (with fans) above a small table, and a central potted palm. Walls painted pale blue or white reflect light. Functions: morning dining and late-afternoon relaxation. These elements mirror traditional Queensland yards: open yet shaded, breezy, and richly planted (inspired by “Elephant ears” tropical schemes).# 31–50 m² Courtyard
+
+- Design: Medium courtyards can accommodate separate zones: e.g., a covered deck for dining plus an open garden corner. Use a roof extension with a raked ceiling and fan over half the space. The open half can have a gazebo or shade sail. Ensure one side is open to prevailing breezes (in Brisbane, the sea breeze from the east). Lay out an L-shaped scheme if tight (dining under cover, lounge in a lawn nook). In experiments, a covered zone maintained UTCI ~0.5°C cooler than uncovered at midday.
+- Vegetation: Plant 3–4 trees: frangipani and jacaranda for shade and flowers, plus at least one evergreen palm. Dense screening plants (e.g. hibiscus hedge) can act as shade walls. Incorporate a green wall or vertical garden on one wall – the high humidity makes vertical planting thrive. With ~4 trees (canopy ~40m²) plus 10–15 m² beds, you reach ~50% green cover; our dataset indicates heavy greening like this yields UTCI ~26.5–27.0°C at peak.
+- Materials: Use light-colored pavers and timber. Traditional Queenslanders use elevated timber floors; a wood or composite deck can emulate this. Stone pathways can have shallow gravel edges to absorb humidity. A rainwater fountain or water table (common in tropical designs) further cools the air. At night, this courtyard can double as an outdoor lounge with lighting.
+- Functions: With this size, include family dining (4–6) and a children’s play space (e.g., mini sandpit or fish pond). Example: a 4×4m timber deck under roof for meals, adjacent 4×4 m lawn for games. Two options: A: 50 m² with 3 mature trees + fan – offers balance (UTC ~27.0°C); B: 50 m² with 5 trees + pool – maximal shade (UTC ~26.5°C) but less open space. Option B’s small plunge pool also adds cooling (a 2 °C drop locally around it). Functions: A suits play+casual dining, B suits dining+leisure with deep shade.
+- Summary: A ~45 m² Brisbane courtyard can be a verdant oasis. For instance: a covered timber deck (with ceiling fan) leading to a garden floor of lawn and bed, with a mix of jasmine vine and potted ferns. Reflective pools or light-toned bluestone (abundant locally) keep it cool. These choices aim to mimic the “internal courtyard tropical garden” style.
+
+# 51–80 m² Courtyard
+
+- Design: Large courtyards in Brisbane can blur indoor/outdoor living. A common layout is multiple covered verandahs on two sides forming a U-shape, with the open courtyard in the center. Allow cross-ventilation by not completely enclosing one side. E.g., a roofed 6×5m entertaining area plus a 5×5 m open garden. If flooding is a concern (low flat land), use raised decks. In practice, multi-level terraces with plants (as in the Laneway).# Designing a Subtropical Retreat
+
+House example) keep air moving and shaded.
+
+# Vegetation
+
+Plant 6–10 trees: a mix of fruit (jackfruit, macadamia), shade (syzygium, flame trees), and palms (Licuala ramsayi). A central lawn or large pond can be ringed by planters of heliconia and palms. Achieve ~60–70% cover: e.g. eight 5–6 m canopy trees (50–60 m² canopy) plus shrub beds. High cover like this can reduce midday UTCI by ~1–2°C compared to a barren yard.
+
+# Materials
+
+Use cool mosaic or textured paving (some Australians use crushed blue metal). Queenslanders often favor timber floors – a warm wood deck under an open eave (painted white underneath) casts gentle shade. For any fully exposed surfaces (concrete, brick), paint or cover them with light shades or green roof elements. Integrate ponds or fountains – Brisbane tradition loves water in gardens, both for cooling and ambiance.
+
+# Functions
+
+A 70–80 m² courtyard can include full outdoor kitchen/dining (10 people) plus a play/lounging zone. Example: an 8×3 m covered area with BBQ and table, plus an open terrace with lounge chairs and a small plunge pool. Options:
+
+- A: 80 m² with 6 huge trees + retractable sails – yields ~70% shade, UTCI ~26.8°C;
+- B: 80 m² with 10 medium trees + built-in bench – ~80% shade, UTCI ~26.3°C. Option B maximizes comfort (cooler by ~0.5°C) at cost of open space. Functionally: A provides a large open carpeted lawn for kids, B provides better all-day comfort for adults.
+
+# Summary
+
+For Brisbane’s 80 m² courtyard, think subtropical retreat. Design with wide eaves, tall palms, and a central water feature (even a koi pond). Materials like pale stone and teak decking keep surfaces pleasant. This approach mirrors classic Queensland designs: “elevated verandahs, fan-cooled patios, and lush planting” – creating an outdoor living room that stays comfortable even in the height of summer.

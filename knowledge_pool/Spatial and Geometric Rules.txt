@@ -1,0 +1,17 @@
+# Spatial and Geometric Rules
+
+- Orientation: Align courtyards and their openings to local climate demands – e.g., face courtyards towards prevailing breezes for ventilation, and orient glazing to capture beneficial sun (north-south axis in tropical regions, south-facing in cold climates).
+
+{category: Spatial and Geometric Rules, sub_category: Orientation, climate_type: all, goal: Ventilation & Solar Access}
+- Aspect Ratio: Choose courtyard proportions that balance airflow and space: narrow courtyards boost cross-ventilation, while wider courtyards increase usable area.
+
+{category: Spatial and Geometric Rules, sub_category: Aspect Ratio, climate_type: all, goal: Ventilation & Usable Space}
+- Size: Aim for courtyard area around 20–30% of total building footprint (as seen in traditional designs) to allow significant daylight/airflow while maintaining enclosure.
+
+{category: Spatial and Geometric Rules, sub_category: Size, climate_type: all, goal: Balance}
+- Shading Features: Employ pergolas, louvers, trellises, or architectural overhangs above the courtyard to cast dynamic shade, especially on east/west facades.
+
+{category: Spatial and Geometric Rules, sub_category: Shading, climate_type: all, goal: Thermal Comfort}
+- Enclosure Height: Use tall courtyard walls to increase stack effect for ventilation and privacy, but include high-level vents or clerestories to prevent stagnant air.
+
+{category: Spatial and Geometric Rules, sub_category: Enclosure, climate_type: all, goal: Ventilation & Privacy}

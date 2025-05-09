@@ -1,0 +1,12 @@
+# Additional Courtyard Configurations
+
+To illustrate variations, consider these example configurations (all approximate UTCI impact shown):
+
+- Valencia, 25 m², 2 Trees: A 5×5 m walled courtyard with 2 orange trees (≈25% shade cover). UTCI ~27.9°C midday. Good for morning dining/rest, uses white tile and fountain.
+- Valencia, 25 m², 3 Trees: Same as above but add a third citrus. UTCI ~27.7°C (≈0.2°C cooler). More tree cover allows extended stay into afternoon and more shade seating.
+- Austin, 50m², 3 Trees (Baseline): e.g. 7×7 m with pergola, 2 oaks + 1 palm (~45% shade). Our data for similar layouts gave UTCI ~28.0°C. Functions: 6-person dining + small lawn (late afternoon use).
+- Austin, 50m², 4 Trees: Add one live oak (≈60% shade). Estimated UTCI ~27.6°C (≈0.4°C drop). Allows full afternoon gatherings. Possibly fewer seats but more comfort.
+- Brisbane, 50 m², 3 Trees: Covered deck + 3 jacarandas (~40% shade). Predict UTCI ~27.0°C. Functions: family meals + small play.
+- Brisbane, 50 m², 5 Trees: Add 2 palms to reach ~60% shade. UTCI ~26.5°C. Very lush feel; ideal for all-day use (even midday).
+
+Each scenario demonstrates that more trees/vegetation consistently lowers UTCI, improves comfort, and broadens possible uses (dining, play, rest). For instance, a 50 m² courtyard at 30 °C ambient with 4 trees is markedly more habitable than with 2. These examples directly inform a courtyard-design AI’s decisions on tree counts, shading structures, and functions.

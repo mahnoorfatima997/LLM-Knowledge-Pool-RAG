@@ -1,0 +1,413 @@
+# BRE Environmental & Sustainability Standard
+
+# BES 5058: ISSUE 1.1
+
+# BREEAM in Use
+
+This standard covers major environmental issues which affect buildings throughout their operational life. It is also compatible with major regulatory and corporate reporting systems including energy performance certificates (EPCs); Display Energy Certificates (DECs); the IPD Environment Code; ISO 14001; RR (Fire safety) Order; Global Reporting Initiative (GRI) etc.
+
+This standard is relevant to all non-domestic commercial, industrial, retail and institutional buildings.
+
+This standard sets out the scope of assessments carried out under BREEAM in Use. Application of this standard is carried out in accordance with national Scheme Documents that tailor the assessment to local national regulations and standards. These may be developed locally and approved by BRE Global.
+
+This BRE Environmental & Sustainability Standard is the property of BRE Global Ltd. and is made publicly available for information purposes only. Its use for testing, assessment, certification or approval must be in accordance with BRE Global internal procedures and requires interpretation by BRE Global and BRE experts. Any party wishing to use this BRE Environmental & Sustainability Standard to offer testing, assessment, certification or approval must apply to BRE Global for training, assessment and a licence; a fee will normally be charged. BRE Global will not unreasonably refuse such applications. BRE Global accepts no responsibility for any unauthorised use or distribution by others of this BRE Environmental & Sustainability Standard and may take legal action to prevent such unauthorised use or distribution.
+
+© BRE Global Ltd 2009# Issue: 1.1 BREEAM In Use
+
+# BES 5058
+
+Date: 27 Oct 2009
+
+Page 2 of 14
+
+# CONTENTS
+
+- PARTICIPATING ORGANISATIONS 3
+- FOREWORD 4
+- 1 SCOPE 5
+- 2 STRUCTURE 5
+- Part 1 Asset Rating 7
+- Part 2 Operational Rating 9
+- Part 3 Occupier Rating 12
+
+© BRE Global 2009# Issue: 1.1
+
+# BREEAM In Use
+
+# BES 5058
+
+Date: 27 Oct 2009
+
+Page 3 of 14
+
+# PARTICIPATING ORGANISATIONS
+
+This standard was approved by the BRE Global Sustainability Board. The following organisations participated in the preparation of this standard:
+
+- Mendip District Council
+- Olympic Delivery Authority
+- Feilden Clegg Bradley
+- Land Securities Trillium
+- Beyond Green
+- UK Green Building Council
+- The Housing Corporation
+- Academy for Sustainable Communities
+- English Partnerships
+- WWF-UK
+- Home Builders Federation
+- Co-op Banking
+- British Property Federation
+- NHBC
+- Inbuilt Ltd
+- Construction Products Association
+- Arup
+- Forum for the Future
+- Stanhope plc
+
+# REVISION OF BRE ENVIRONMENTAL & SUSTAINABILITY STANDARDS
+
+BRE Environmental & Sustainability Standards will be revised by issue of revised editions or amendments. Details will be posted on our website at:
+
+www.GreenBookLive.com
+
+Technical or other changes which affect the requirements for the approval or certification of the product or service will result in a new issue. Minor or administrative changes (e.g. corrections of spelling and typographical errors, changes to address and copyright details, the addition of notes for clarification etc.) may be made as amendments.
+
+The issue number will be given in decimal format with the integer part giving the issue number and the fractional part giving the number of amendments (e.g. Issue 3.2 indicates that the document is at Issue 3 with 2 amendments).
+
+Users of BRE Environmental & Sustainability Standards should ensure that they possess the latest issue and all amendments.
+
+© BRE Global 2009# Issue: 1.1
+
+# BREEAM In Use
+
+# BES 5058
+
+Date: 27 Oct 2009
+
+Page 4 of 14
+
+# Foreword
+
+This standard has been produced to enable provision of information about the environmental performance of:
+
+- the building (Asset Rating);
+- the operation of the building (Building Management Rating);
+- how clients are managing their activities within the building (Organisational rating).
+
+The information will enable regulators, clients, tenants, buildings managers and investment managers to establish the environmental sustainability of their existing buildings (and/or portfolios), their operation and activities which in turn will help them to both reduce their costs and improve their environmental sustainability.
+
+BREEAM in Use can be used internationally. It is applied through BRE Global approved national Scheme Documents relating to local regulatory and property management frameworks and standards applicable in the country of assessment.
+
+The following issues and relative weightings given in Parts 1, 2 and 3 of this standard may be tailored for use outside of the UK subject to approval from BRE Global.
+
+A commitment to use BREEAM in Use is included within the BREEAM Design and Procurement and Post Construction requirements for an Outstanding Rating.
+
+# NOTES
+
+1. Compliance with this BES does not of itself confer immunity from legal obligations. Users of BESs should ensure that they possess the latest issue and all amendments.
+2. BRE Global welcomes comments of a technical or editorial nature and these should be addressed to “the Technical Director” at enquiries@breglobal.co.uk.
+3. BRE and BRE Global are owned by the BRE Trust which is a registered charity. For further information on our services please contact BRE Global, Watford, Herts. WD25 9XX or e-mail to enquiries@breglobal.co.uk.
+
+© BRE Global 2009# 1. Scope
+
+This standard (BES 5058) covers major environmental issues which affect buildings throughout their operational life including:
+
+- energy and greenhouse gas emissions;
+- water;
+- waste;
+- air quality;
+- noise;
+- lighting;
+- property protection;
+- fire protection etc.
+
+It is also compatible with major regulatory and corporate reporting systems including energy performance certificates (EPCs); Display Energy Certificates (DECs); the IPD Environment Code; ISO 14001; RR (Fire safety) Order; Global Reporting Initiative (GRI) etc.
+
+This standard is relevant to all non-domestic commercial, industrial, retail and institutional buildings.
+
+This standard sets out the scope of assessments carried out under BREEAM in Use. The full assessment criteria is not included within this standard but can be located at www.breeam.org/inuse when you register an asset. Note: There is a fee associated with registering an asset, full details of the scheme fees can be found on fee sheet FS021 which can be located at www.breeam.org/inuse. Application of this standard is carried out in accordance with national Scheme Documents that tailor the assessment to local national regulations and standards. These may be developed locally and approved by BRE Global.
+
+© BRE Global 2009# BREEAM In Use
+
+# Issue: 1.0
+
+# Date: 24 Feb 2009
+
+# Page 6 of 14
+
+# 2. Structure
+
+This standard is arranged in 3 Parts as follows:
+
+|Part 1|Asset performance – the inherent performance characteristics of the building based on its built form, construction and services|
+|---|---|
+|Part 2|Building management performance – the management policies, procedures and practices related to the operation of the building; the consumption of key resources such as energy, water and other consumables; and environmental impacts such as carbon and waste generation|
+|Part 3|Organisational effectiveness – the understanding and implementation of management policies, procedures and practices; staff engagement; and delivery of key outputs|
+
+The core criteria, which are relevant to all building types, covered by the Standard, are listed in Parts 1 to 3 of this Standard. Detailed requirements, building specific criteria and assessment standards will be set out in the Scheme Documents and assessment tool that support this Standard, and which are provided to clients at certification.
+
+© BRE Global 2009# BREEAM In Use
+
+# Part 1 – Asset Rating
+
+The standards
+
+Part 1 of this Standard provides a quality measure of a building’s inherent performance characteristics based on its built form, construction and services. A Part 1 assessment can be carried out independently of any assessment against Parts 2 or 3 of this standard.
+
+Table 1 sets out the core scope of the Standard against which all Part 1 assessments will be carried out. It is not necessary to meet all of these criteria to achieve a rating against the Standard. Building type specific performance standards are set for these issues within the Scheme Documents.
+
+**Table 1 – Core Asset Rating Scope**
+|Assessment criteria|weighting|
+|---|---|
+|ENERGY|26.5%|
+|Level of CO₂ emissions*| |
+|Sub-metering of substantial energy uses| |
+|Sub-metering of areas/tenancy| |
+|Renewable and low emission energy (built in)| |
+|WATER|8.0%|
+|Water consumption| |
+|Water meter| |
+|Leak detection systems| |
+|Water recycling (use of rainwater / greywater (recycled water))| |
+|MATERIALS|8.5%|
+|Robustness (Impact protection / Durability/designing for longevity)| |
+|Quality of asset (i.e. how well it has been maintained)| |
+|Security (quality and maintenance status of systems)| |
+|Fire protection (Remotely monitored fire alarms systems)| |
+|WASTE|5%|
+|Storage of recyclable waste| |
+|HEALTH & WELLBEING|17.0%|
+|Daylighting (provision and control)| |
+|Artificial lighting design (quality; levels; control)| |
+|Indoor air quality (ventilation rates; indoor air quality; microbial contamination)| |
+|Thermal control| |
+|Acoustic performance| |
+|Drinking water provision (plumbed in water coolers)| |
+
+© BRE Global 2009# BREEAM In Use
+
+# Issue: 1.0
+
+# Date: 24 Feb 2009
+
+# Page 8 of 14
+
+# Table 1 – Core Asset Rating Scope
+
+|Assessment criteria|Section weighting|
+|---|---|
+|OUTDOOR SPACE|14.0%|
+|POLLTUTION| |
+|Ground/water pollution control measures| |
+|Flood risk| |
+|Flood management facilities (incl. Sustainable Urban Drainage (SUDs))| |
+|Refrigerant type and leakage detection/control| |
+|Emissions to air (incl. NOx)| |
+|Land contamination| |
+|TRANSPORT|11.5%|
+|Proximity of amenities| |
+|Cyclist facilities| |
+|Accessibility/availability of public transport| |
+|Pedestrian/cyclist safety| |
+|LAND USE & ECOLOGY (Biodiversity)|9.5%|
+|Ecological value (including enhancement)| |
+
+*Note (Not a part of this standard): The level of CO₂ emissions can be demonstrated by input of the EPC rating or an alternative method where a full EPC is not available
+
+© BRE Global 2009# BREEAM In Use
+
+# Part 2 – Building Management Rating
+
+The standards
+
+Part 2 of this standard provides a qualitative measure of:
+
+- management policies, procedures and practices related to the operation of a building;
+- consumption of key resources such as energy, water and other consumables; and
+- the environmental impacts of carbon and waste.
+
+It is independent of the inherent environmental quality of the building itself. Such management policies may be applied at a building, estate level or corporate level but are assessed in terms of their implementation within the building.
+
+A Part 2 assessment can be carried out independently of any assessment against Parts 1 or 3 of this standard.
+
+Table 2 sets out the core scope of the Standard against which all Part 2 assessments will be carried out. It is not necessary to meet all of these criteria in order to achieve a rating against the Standard. Building type specific performance standards are set for these issues within the Scheme Documents.
+
+**Table 2 – Building Management Rating Scope**
+|Assessment criteria|Section weighting|
+|---|---|
+|ENERGY|31.5%|
+|Level of CO₂ emissions*| |
+|Maintenance regime / schedules| |
+|Energy audit| |
+|Energy / CO₂ monitoring, targeting & reduction| |
+|Energy reporting/information| |
+|Energy management| |
+|WATER|5.5%|
+|Maintenance of sanitary fittings and controls| |
+|Water consumption monitoring| |
+|MATERIALS|7.5%|
+|Hazardous materials| |
+|Security survey (covering building and site arrangements facilities)| |
+|Security system remote monitoring| |
+|Fire protection / resilience (Fire risk; emergency plan)| |
+|HEALTH & WELLBEING|15.0%|
+|Refurbishment policies| |
+|Volatile organic compound policies| |
+
+© BRE Global 2009# BREEAM In Use
+
+# Issue: 1.0
+
+# Date: 24 Feb 2009
+
+# Page 10 of 14
+
+# Table 2 – Building Management Rating Scope
+
+|Assessment criteria|Section weighting|
+|---|---|
+|Cleaning policies| |
+|Occupant satisfaction surveys| |
+|Maintenance of lighting levels| |
+|LAND USE & ECOLOGY|12.5%|
+|Biodiversity action plan| |
+|Ecological survey| |
+|POLLUTION|13.0%|
+|Management/maintenance of ground/water pollution control measures (incl. hazardous chemicals)| |
+|Flood risk management plan and procedures (incl. Sustainable Drainage Systems)| |
+|Maintenance procedures/plans| |
+|Refrigerant leakage monitoring| |
+|Control of emissions to air| |
+|Land contamination| |
+|Light pollution control| |
+|MANAGEMENT (systems relating to the building(s) covered)|15%|
+|Note: These may be corporate level systems but must be implemented in practice at the building level| |
+|Building user guide| |
+|Operating manuals| |
+|Local environmental responsibility (staff designated) **| |
+|Building user liaison mechanisms and education programme| |
+|Environmental policy implementation (covering building level issues) **| |
+|Environmental purchasing policy implementation (covering building level issues) **| |
+|Environmental management system (covering building level issues)| |
+|Condition survey| |
+|Planned maintenance policy/plan| |
+|Refurbishment policy (covering improvement to building fabric and systems)| |
+
+*Note (Not a part of this Standard): The level of CO₂ emissions can be demonstrated by input of the DEC rating or an alternative method where a full DEC is not available.
+
+** Note: The scope of the assessment covers the local implementation of issues. Policies and procedures marked with a double asterisk relate to the operation and maintenance of the building. They include, but are not limited to, the following aspects of environmental management and responsibility:
+
+- Occupant satisfaction surveys, feedback and targets
+- Transport impact measurement and planning
+
+© BRE Global 2009# BREEAM In Use
+
+# Issue: 1.0
+
+# Date: 24 Feb 2009
+
+# Page 11 of 14
+
+- Biodiversity impact assessment and local partnerships
+- Measurement, reporting and targeting of building performance
+
+© BRE Global 2009# BREEAM In Use
+
+# Part 3 – Organisational Rating
+
+The Standards
+
+Part 3 of this standard provides a framework for the assessment and evaluation of management policies, procedures and practices related to the activities that an organisation is carrying out in the building being assessed. It evaluates the quality of understanding and implementation of these management systems at the building or site level. Part 3 is independent of the inherent environmental quality of the building itself.
+
+A Part 3 assessment can be carried out independently of any assessment against Parts 1 or 2 of this standard. Many of the issues covered in Part 3 are also covered in Part 2 in relation to the specific management and operation of the building and its services.
+
+**Table 3 – Organisational Rating Scope**
+|Assessment criteria|Indicative Section weighting (based on office activities or similar)|
+|---|---|
+|MANAGEMENT (holistic management systems)|12.0%|
+|Note: These may be corporate level systems but must be implemented in practice at the building level|Note: These may be corporate level systems but must be implemented in practice at the building level|
+|Building user liaison mechanisms and education programmes| |
+|Environmental management system| |
+|Local environmental responsibility (staff designated)| |
+|Environmental policy| |
+|Environmental purchasing policy implementation| |
+|Environmental management system| |
+|Business continuity plans (emergency)| |
+|ENERGY|19.5%|
+|Energy policies| |
+|Energy and equipment purchasing policies| |
+|Measuring and recording| |
+|Targeting and monitoring| |
+|Energy management training| |
+|Carbon footprinting| |
+|WATER|3.5%|
+|Environmental policies| |
+
+© BRE Global 2009# BREEAM In Use
+
+# Issue: 1.0
+
+# Date: 24 Feb 2009
+
+# Page 13 of 14
+
+# Table 3 – Organisational Rating Scope
+
+|Assessment criteria|Indicative Section weighting (based on office activities or similar)|
+|---|---|
+|Purchasing policies|4.5%|
+|Measuring and recording| |
+|Targeting and monitoring| |
+|Water management training| |
+|MATERIALS|11.5%|
+|Environmental policies| |
+|Environmental purchasing policies| |
+|Measuring and recording (materials/resources and waste)| |
+|Targeting and monitoring (materials/resources and waste)| |
+|Hazardous materials| |
+|Security| |
+|Fire protection / resilience| |
+|HEALTH & WELLBEING (Staff)|15.0%|
+|Stakeholder engagement| |
+|Staff development| |
+|Staff feedback mechanisms| |
+|Targeting and monitoring| |
+|Management training| |
+|TRANSPORT|18.5%|
+|Green travel plans/initiatives to reduce impacts of travelling| |
+|Measuring and recording travel impacts (i.e. transport surveys)| |
+|Business travel policies and procedures| |
+|Car sharing/staff travel schemes| |
+|Delivery management| |
+|Accessibility/availability of public transport| |
+|LAND USE & ECOLOGY (Biodiversity)|5.0%|
+|Biodiversity survey of site| |
+|Biodiversity action plan| |
+
+© BRE Global 2009# BREEAM In Use
+
+# Issue: 1.0
+
+# Date: 24 Feb 2009
+
+# Page 14 of 14
+
+# Table 3 – Organisational Rating Scope
+
+|Assessment criteria|Indicative Section weighting (based on office activities or similar)|
+|---|---|
+|Enhancement of ecological value| |
+|POLLUTION|10.5%|
+|Management/maintenance of ground/water pollution control measures| |
+|Flood risk management plan and procedures| |
+|Control of emissions to air| |
+|Land contamination| |
+|Control of hazardous chemicals etc| |
+
+# Notes:
+
+1. Policies and procedures should cover steps taken to appropriately reduce, reuse, recycle, and train in relation to the organisations business activities.
+2. Assessment takes account of the degree of implementation of such policies and procedures.
+3. Procedures and incentives will be assessed at the building level.
+
+© BRE Global 2009

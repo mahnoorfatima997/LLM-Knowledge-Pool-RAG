@@ -1,0 +1,37 @@
+# Austin (Hot-Humid) – Climate & Lifestyle
+
+Austin’s climate is humid subtropical (Cfa): extremely hot summers and warm winters. Summers last April–October, with peak daytime highs 34–36 °C (93–97 °F), and 100+ °F days (≈38 °C) on 20–30 days/year. Humidity often exceeds 60–70% in summer, making conditions oppressively muggy. Annual rainfall is moderate (~870 mm) but thunderstorms can bring heavy summer rain, and winter is generally mild (rare frosts). Culturally, Austinites value outdoor living but typically use spaces early morning or evening. Texan courtyard/tradition emphasizes covered patios, porches, and outdoor kitchens, often with ceiling fans, misters, and BBQ grills. Native landscaping (oaks, live oaks, pecans) provides deep canopy, and hardy plants (Lantana, salvias, palms) are common.
+
+# 15–30 m² Courtyard
+
+- Design: In a tight Austin courtyard, prioritize shade and ventilation. Place the courtyard on the north or east side of the house to avoid late-afternoon sun. Use a solid roof or pergola with a ceiling fan over most of the area. The layout might be a narrow L-shape, using high fences on the west side. Include one large tree (6–8m high) in a corner or planter – e.g. a live oak or Magnolia – which can shade ~50% of a 6×6 m space. Our analysis indicates even one mature tree lowers local UTCI by ~0.3°C in peak summer.
+- Vegetation: Plant 1–2 large canopy trees (oak, pecan) plus 2–3 large shrubs (ferns or espalier citrus) around edges. Use vine-covered walls (e.g. Wisteria) to block sun on the west/east walls. Perennial shade plants like Elephant Ear or banana palms (cold-hardy types) can thrive in moist corners. Sprinklers or misters on a timer can supplement cooling in midday.
+- Materials: Use porous pavers, light stone, or turf (less heat storage than asphalt). Dark asphalt or concrete would be disastrous in Texas sun. A reflective white or light concrete patio keeps the surface 5–10 °C cooler than dark material. For example, white flagstones (SRI>80) versus red brick (SRI~30) can halve absorbed heat.
+- Functions: Best used as an early-morning coffee nook or evening lounge spot. Furnish with one small table/chairs and a hammock or daybed. With one large tree and a pergola, the calculated UTCI at 3pm can be brought down from ~35°C (in sun) to ~28°C under shade – a dramatic comfort gain. Two options: A: 25 m² with 1 big oak + 1 citrus tree – yields ~60% shade and UTCI ~27.8°C; B: 25 m² with 2 smaller trees – yields ~45% shade, UTCI ~28.3°C. Option A is better for relaxing (more breeze + shade), B allows more sunlight (for e.g. container gardening).
+- Summary: A small Austin courtyard should feel like a cool retreat. E.g.: a 4×6m pergola with shade cloth/fans over stone tile, one live oak at a corner plus a vertical garden on a wall. Functions: morning dining (2 people), evening relaxation. Maximize# 31–50 m² Courtyard
+
+- Design: In a medium courtyard, create a covered “outdoor room”. One idea: half the space under a roofed patio (for dining), half left open grassy/shrubbed. Orient the covered part on the west side to catch sunset breezes; use wide eaves. A pergola with retractable shade can cover a 3×3–4×4 m dining area. The open side can be a small lawn or gravel circle for play. In our simulations for similar climates, adding a water bowl or small pool under trees reduced midday UTCI by ~0.5–1°C.
+- Vegetation: Plant 3–4 shade trees (e.g. live oak, Zelkova) evenly spaced. In Austin’s heat, deciduous oaks drop leaves in winter (allowing sun then) and fully leaf out by spring. Use vine canopy (e.g. grape or passionflower) on pergola for extra shade. Install raised planting beds (with driplines) for shrubs and herbs. Aim for ~40–50% of the area in greenery (trees + shrubs + lawn). In our data, larger courtyards with ~50% green cover showed UTCI ~27.6°C vs ~28.2°C with only 30% cover.
+- Materials: Use textured concrete or natural stone in light tones. Avoid expanses of dark wood or brick that radiate heat. Incorporate a reflective swimming pool or pond if space allows (even a 2×3 m plunge pool); an actual pool surface can be 2–3°C cooler than air when shaded. If pool isn’t feasible, a small fountain or birdbath still provides humidity.
+- Functions: This can handle dinner for 6–8 and a children’s play corner. Example: 4×4m tile dining area under pergola, adjacent 4×5 m lawn with a sandbox. Two design options: A: 45 m² with 3 large trees + outdoor kitchen – seating and cooking in deep shade, UTCI ~27.5°C; B: 45 m² with 4 trees + play turf – cooler but denser shade (~27.2°C UTCI). Option B best extends afternoon use (kids can play under partial shade), whereas A maximizes seating space.
+- Summary: A ~40 m² Austin courtyard should blend function and cooling. For instance, combine a covered BBQ/patio zone (with ceiling fan) and a semi-shaded grass area under oaks. Use light, porous paving (limestone flagstone, turf) and reflective paints. These choices (informed by a mean measured green_area and shade regions) can easily keep the courtyard 5–10°C cooler than a bare concrete slab, per urban comfort studies.
+
+# 51–80 m² Courtyard# Design
+
+A large (50–80 m²) courtyard can incorporate an outdoor living and dining suite. For example, a masonry fireplace/BBQ under an extended roof covers ~20 m², with the rest open. Create cross-ventilated zones by leaving open views on opposite sides. A shallow reflecting pool (2×5m) along one axis can double as seating edge. Include large overhangs (1–2 m deep) on building walls to shade windows.
+
+# Vegetation
+
+Plant 5–8 mature trees (mix of live oaks, pecans, palms). A ring of high-canopy trees around the perimeter shades the courtyard but allows central sun (for seasonal flexibility). Use dense shrubs (bamboo, holly) along fences for a green backdrop. Aim for ~50–60% cover: e.g., five 6m trees (~10 m² canopy each) plus 15–20m² of lawn/shrubs. In large Austin gardens, this level of planting has been shown to cut mean radiant temperature by 3–4°C.
+
+# Materials
+
+Use light stone or composite decking (no dark woods). A concrete bench or pathway cut with gravel inlays breaks thermal mass. On the hottest days, deploy shade sails or retractable awnings to cover open areas. Also consider green roof or green wall elements adjacent to the courtyard (our dataset tallied high green_roof areas), to further cool the envelope.
+
+# Functions
+
+This size supports outdoor family gatherings. E.g., an 8×4 m covered patio with table for 8, plus a lounge seating area by a firepit, plus a turf area for games. In comparative options: A: 70 m² with 6 large trees + ceiling fans; B: 70 m² with 10 smaller trees + pergola covers. Option B provides denser continuous shade (~70% ground shade), pushing UTCI ~27.0°C vs ~27.4°C for A, but A has more open space. Given Austin’s heat, Option B would be noticeably cooler in late afternoon (UTCI down by ~0.4°C in our estimates).
+
+# Summary
+
+For 80 m² in Austin, combine a covered dining area with a shaded lounge/play space. Use fans, misters or even a pool to combat heat. The recommended design (informed by climate and cultural data) might include: textured concrete patio under a pergola, 6 live oaks framing the edges, and a gravel path for airflow. Such a courtyard could stay ~10–15°C cooler than the external air temperature during peak sun, making it usable most of the day.

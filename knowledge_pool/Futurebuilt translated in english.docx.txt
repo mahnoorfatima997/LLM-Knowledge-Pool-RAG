@@ -1,0 +1,225 @@
+# FutureBuilt ZERO-L criteria for greenhouse gas calculations in landscape
+
+Authors: Vidar Lind Yttersian (Asplan Viak), Oddbjørn Dahlstrøm Andvik (Asplan Viak), Emilie Chartrand (Asplan Viak), Eirik Resch (NTNU/Reduzer), Eivind Selvig (Civitas), Stein Stoknes (FutureBuilt), Guro Aalrust (FutureBuilt), Reidun Aasen Vadseth (FutureBuilt)
+
+Date: 09.09.2022
+
+Version: 1.2
+
+Access: Open
+
+Photo: NHM Jarli & Jordan
+
+# Contents
+
+1. Introduction ..... 3
+1. About the criteria ..... 3
+2. Main criterion ..... 4
+1. Optional level - Plus landscape ..... 4
+3. Landscape ..... 5
+1. What is included in the methodology ..... 5
+2. Reference landscape ..... 5
+4. Calculation rules ..... 6
+1. Modules ..... 6
+2. Land use changes ..... 8
+5. Reference values ..... 15
+1. Standard material choices ..... 15
+2. Plants, vegetation, and soil ..... 15
+3. Maintenance ..... 16
+6. Documentation requirements ..... 17
+1. Presentation of results ..... 17
+2. Milestones ..... 17
+7. Revision of the criteria ..... 18
+8. Appendices ..... 19
+1. Building part table ..... 19
+2. Biogenic emissions/uptake from land use changes ..... 21
+3. Fossil emissions from land use changes ..... 24
+4. Greenhouse gas uptake during the lifetime of trees and shrubs ..... 25
+5. Standard values for trees and shrubs ..... 35
+6. Reference values for materials and products ..... 37
+7. Calculation example ..... 38
+
+# 1. INTRODUCTIONFutureBuilt quality criteria cover a range of topics central to sustainable urban development. The criteria are compiled in the overarching document "FutureBuilt quality criteria" and elaborated in separate thematic criteria documents. All documents are available for download at www.futurebuilt.no.
+
+Some thematic criteria are mandatory for all FutureBuilt projects, while others are optional. The criteria for ZERO-Landscape are optional.
+
+ZERO-Landscape is a set of criteria with associated methodology and documentation requirements for greenhouse gas calculations in landscape projects. It is based on discussions between FutureBuilt, Asplan Viak, Reduzer/NTNU, and Civitas, as well as input from various stakeholders during resource group meetings in spring 2022. The criteria were authored by Vidar Lind Yttersian from Asplan Viak.
+
+# 1.1 About the criteria
+
+Landscapes and outdoor areas are designed based on many different premises, but this criteria set deals exclusively with greenhouse gases related to landscape projects. The criteria describe the main criterion and calculation methodology for greenhouse gas emissions and uptake for a FutureBuilt landscape project, and what is required to achieve a Plus landscape. A Plus landscape is a landscape/outdoor facility that, based on given assumptions and boundaries, absorbs more greenhouse gases than it emits over the calculation period.
+
+The criteria consist of the following chapters: Main criterion describing the overall requirement to satisfy FutureBuilt ZERO-Landscape; Landscape covering what a landscape project can be and include, and how a reference landscape is defined; followed by Calculation rules, Reference values showing emission and uptake figures if no project-specific reference values exist; and finally Documentation requirements showing how and when emissions and other data should be documented.
+
+# 2. MAIN CRITERION
+
+FutureBuilt model projects shall aim for a minimum 50 percent reduction in greenhouse gas emissions.
+
+# 2.1 Optional level - Plus landscape
+
+A Plus landscape is a landscape/outdoor facility that over the calculation period absorbs and binds more greenhouse gases than it emits. This is illustrated in Figure 2-1 below, showing greenhouse gas emissions at year zero and over a given calculation period. Simultaneously, it shows CO₂ uptake in biomass, which over time can result in a climate-neutral and even climate-positive landscape, i.e., a Plus landscape. The red line represents fossil emissions; the black line represents biogenic uptake.Figure 2-1: Plus landscape illustrated over time with timing of emissions and uptake. Red line is fossil emissions. Black line is biogenic uptake.
+
+# 3. LANDSCAPE
+
+The term landscape is broad and here refers to most outdoor areas. Examples include parks, streets, squares, sports facilities, water landscapes, courtyards/gardens, shore zones, roof gardens, facades, etc. Landscapes typically contain green areas, hard surfaces, and constructions such as playground equipment, benches, etc. The methodology covers both new establishment and re-establishment of landscapes, with no size limitation.
+
+Bike paths, pedestrian paths, and access roads included in the landscape project are covered by this criteria set. Other types of roads (e.g., municipal car roads) are excluded. Simple constructions (e.g., bike parking, stages, pavilions) are included. Buildings are not covered by this criteria set but are covered by FutureBuilt ZERO criteria for low-emission buildings and areas.
+
+The calculation period for greenhouse gas calculations of a landscape project is set to 60 years, according to NS 3720, and to align with calculations for roads, railways, and buildings.
+
+# 3.1 What is included in the methodology
+
+The building part table (NS 3451), chapter 7 Outdoors, is used to define what is included in a landscape project. Additionally, all parts of the building part table belonging to the outdoor facility are included, meaning technical systems related to outdoor facilities (e.g., snow melting solutions) are included.
+
+Not all subchapters of chapter 7 are equally relevant due to their minor impact or lack of emission data. Appendix A shows which subchapters are included in greenhouse gas calculations.
+
+# 3.2 Reference landscape
+
+A project-specific reference landscape shall be created to measure achievement of the main criterion and to gather experience about greenhouse gases from landscapes. The reference landscape is independent of the Plus landscape mentioned in 2.1, which is optional.
+
+There is currently insufficient greenhouse gas calculation data from landscape projects to establish a general reference landscape based on area or number of users. The project should therefore be compared with a reference similar to the specific landscape project as detailed in the sketch project, but with standard solutions (material/element types, transport distances, and emission factors). Standard solutions are described in chapter 5. This allows calculation of reduced emissions by choosing low-emission materials and shorter transport distances, while conceptual choices before the sketch project are not counted as savings. When sufficient data is available, it will be included in the methodology, e.g., as m² of "standard" landscape or area type.# 4. CALCULATION RULES
+
+Greenhouse gas calculations for landscapes shall follow the calculation rules in FutureBuilt ZERO criteria for low-emission buildings and areas, V2.0 14.06.2021, which mainly follow NS 3720 "Method for greenhouse gas calculations for buildings," but introduce additional elements including:
+
+- Time factor
+- Technology factor
+- Energy use (electricity and thermal)
+- Carbon uptake in wood products (carbon uptake in forests by using timber)
+- Carbonation of cement
+- Facilitation for reusability
+
+Further theory and background are given in FutureBuilt ZERO. Calculation rules for biogenic carbon uptake in soil mixtures and trees/shrubs (biomass) planted are refined in this document as an addition to FutureBuilt ZERO.
+
+Calculations shall be made for a reference landscape and a designed landscape project with actual material choices and solutions as described in 3.2. The designed landscape shall be compared with the reference to show goal achievement.
+
+Positive emission factors indicate carbon emissions; negative values indicate carbon uptake. Appendix G shows a calculation example.
+
+# 4.1 Modules
+
+Figure 4-1 shows elements included in greenhouse gas calculations for landscapes and which modules to calculate. A detailed explanation of land use change calculations (points 3a-d) is in 4.2.
+
+|Module|Description|
+|---|---|
+|A1-A3|Product stage: Raw materials, Transport, Production|
+|A4-A5|Construction stage: Transport, Construction and installation work|
+|B1-B8|Use stage: Use, Maintenance, Repair, Replacement, Refurbishment, Operational energy use, Water use, Operational transport|
+|C1-C4|End-of-life stage: Demolition, Transport, Waste processing, Disposal|
+|D|Benefits and loads beyond system boundary: Material and energy recovery, reuse, export of self-produced energy|
+
+Modules cover materials, operation, land use changes, and consequences beyond system boundaries.
+
+# 4.2 Land use changes# This section details module 3 in Figure 4-1.
+
+The greenhouse gas calculations follow the methodology of the Norwegian Environment Agency. Key points:
+
+- Greatest emissions occur the first year after land use change if living biomass (trees, etc.) is removed, considered immediate emissions.
+- Soil processes change and stabilize over a longer period (20 years per IPCC guidelines).
+- Land use change is divided into four periods:
+1. Annual biogenic carbon emissions/uptake if land use is unchanged (20 years)
+2. Biogenic and fossil emissions/uptake at year 0 due to change (removal of biomass, site preparation)
+3. Biogenic emissions/uptake years 1-19 during transition phase
+4. Emissions/uptake from plants and vegetation over 60 years
+
+Calculations use emission factors for different soil types and land uses (Appendix B). Fossil emissions from excavation and transport are included (Appendix C).
+
+# 5. REFERENCE VALUES
+
+Reference values are used in the reference scenario and when project-specific data is unavailable.
+
+# 5.1 Standard material choices
+
+Appendix F Table 8-9 lists standard emission factors, lifetimes, and transport distances for materials such as concrete, steel, natural stone, asphalt, rubber surfaces, and artificial turf. Transport distances default to:
+
+- Local: 50 km one-way + 50 km empty return
+- Regional: 200 km
+- Norway/Nordic: 500 km
+- Europe: 2000 km
+- Asia: 23000 km (mostly by ship)
+
+Mass transport uses diesel emission factors based on VegLCA data.
+
+# 5.2 Plants, vegetation, and soil
+
+Reference and project should have the same CO₂ uptake and quantities of various types of trees and shrubs. Soil emissions vary, with peat-based soils having higher emissions than compost or mineral soils; peat-based soils are discouraged. Transport distances for trees and shrubs are set to Europe (2000 km), while soil is local.# 5.3 Maintenance
+
+Limited data is available on maintenance emissions; snow removal and plowing are included with assumptions on fuel use and frequency. Snow melting energy use and infrastructure emissions are also included.
+
+# 6. DOCUMENTATION REQUIREMENTS
+
+# 6.1 Presentation of results
+
+Results shall be presented as:
+
+- Total tonnes CO₂-equivalent
+- Total tonnes CO₂-equivalent by module (per 4.1)
+- kg CO₂-equivalent per m² of landscape (total footprint)
+- kg CO₂-equivalent per year and accumulated per year over the calculation period, showing if and when the landscape reaches net zero or becomes a Plus landscape (example in Figure 2-1)
+
+Final documentation shall be based on actual chosen products, preferably documented with Environmental Product Declarations (EPDs). Other requirements follow NS 3720 for calculation, documentation, and data quality. A greenhouse gas report shall include results, documentation, experiences, and measures considered. Additional documentation includes EPDs for green components and equipment, with emissions calculated and reported.
+
+# 6.2 Milestones
+
+Documentation shall be delivered at:
+
+- End of preliminary project (as designed)
+- Completion (as built)
+- After two years of operation
+
+The reference landscape should be established early and documented at these milestones.
+
+# 7. REVISION OF THE CRITERIACurrently, there is insufficient data to include more lifecycle modules, building part elements, or reference values for vegetation.
+
+The goal is to revise criteria to include more lifecycle modules, building parts, and vegetation references as better data becomes available. Documentation requirements in chapter 6 will help provide this data.
+
+# 8. APPENDICES</h8>
+# A. Building part table</h8>
+Lists subchapters of NS 3451 chapter 7 Outdoors included in calculations. Includes terrain, outdoor constructions, outdoor piping, outdoor power, roads and squares, parks and gardens, and outdoor infrastructure, with specific inclusions and exclusions.
+
+# B. Biogenic emissions/uptake from land use changes</h8>
+Emission factors for various land types and soil types over different periods, based on Norwegian Environment Agency data.
+
+# C. Fossil emissions from land use changes</h8>
+Emission factors for excavation and transport of masses based on VegLCA.
+
+# D. Greenhouse gas uptake during the lifetime of trees and shrubs</h8>
+Methodology for calculating carbon uptake by trees and shrubs over their lifetime, including use of i-Tree software for urban trees.
+
+Includes formulas for transport weight of trees, uptake values per year by tree size and growth rate, and assumptions for shrubs.
+
+# E. Standard values for trees and shrubs</h8>
+Standard values for unit, lifetime, weight, production phase emissions, uptake over lifetime, and end-of-life emissions for various types of trees and shrubs.
+
+# F. Reference values for materials and products</h8>
+Table of standard emission factors, lifetimes, production locations, and transport distances for common materials used in landscape projects.# G. Calculation example
+
+Example setup for greenhouse gas calculations comparing a reference project with standard emission factors and a designed project with specific EPD data.
+
+Calculation includes:
+
+- Emissions from material use (A1-C4) over 60 years
+- Emissions from operation (B1-B7) over 60 years
+- Emissions/uptake from existing land if unchanged (B1, 20 years)
+- Emissions from land use change (biogenic and fossil) at year 0 (A5)
+- Emissions/uptake from soil and biomass (plants, shrubs, trees) over 60 years (A1-C4) including production, transport, construction, uptake, and replacement.
+
+This translation captures the main content and structure of the original Norwegian document on FutureBuilt ZERO-L criteria for greenhouse gas calculations in landscape projects.
+
+# Citations:
+
+1. FutureBuilt ZERO-L criteria for greenhouse gas calculations
+2. Online Document Translator
+3. UPDF OCR Translator
+4. Google Translate
+5. Wondershare PDF Knowledge
+6. Sider AI PDF Translator
+7. Google Translate Support
+8. GroupDocs Translation
+9. PDF Gear Chat PDF
+10. Rush Translate
+11. Online Document Translator
+12. DeepL Translator
+13. DeepL Translator
+14. Online Document Translator
+15. Smallpdf PDF Translator
+16. Canva PDF Translator
+17. Google Play PDF Translator

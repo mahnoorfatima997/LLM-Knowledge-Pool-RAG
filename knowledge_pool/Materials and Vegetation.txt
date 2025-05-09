@@ -1,0 +1,17 @@
+# Materials and Vegetation
+
+- High-albedo surfaces: Use light-colored paving and wall finishes (high solar reflectance) on courtyard floors and walls to reduce heat absorption and mitigate local heat buildup
+
+{category: Materials and Vegetation, sub_category: High-Albedo Materials, climate_type: all, goal: Thermal Comfort}
+- Green cover: Plant trees, shrubs and groundcover in courtyards to provide shade, evaporative cooling and improved air quality. Use native/drought-tolerant species to minimize water use.
+
+{category: Materials and Vegetation, sub_category: Vegetation Cover, climate_type: all, goal: Thermal Comfort & Biodiversity}
+- Water elements: Integrate fountains, ponds or rain gardens in courtyards for evaporative cooling and aesthetic appeal. Shade these water bodies to increase effectiveness.
+
+{category: Materials and Vegetation, sub_category: Water Features, climate_type: all, goal: Thermal Comfort & Aesthetic}
+- Permeable paving: Choose porous or permeable paving materials (e.g. gravel, pavers, green swales) to allow rain infiltration and reduce runoff, which also cools the surface.
+
+{category: Materials and Vegetation, sub_category: Permeable Surfaces, climate_type: all, goal: Water Management & Cooling}
+- Shade structures with vegetation: Incorporate green pergolas, trellises covered with vines or planted living walls to create shaded courtyard zones that blend structure with nature.
+
+{category: Materials and Vegetation, sub_category: Shade Structures, climate_type: all, goal: Shading & Greenery}

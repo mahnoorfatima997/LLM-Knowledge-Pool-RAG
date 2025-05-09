@@ -1,0 +1,16 @@
+# Climate-Responsive Strategies
+
+- Maximize natural ventilation in hot-humid climates: Design courtyards with tall, narrow enclosures and ample openings to create strong stack-effect airflow, enhancing cooling and comfort
+{category: Climate-Responsive Strategies, sub_category: Hot-Humid, climate_type: hot-humid, goal: Thermal Comfort}
+- Provide extensive shade in hot-humid climates: Use overhangs, verandas, trellises or vegetation screens on courtyard walls and openings to block direct sun, lowering heat gain
+{category: Climate-Responsive Strategies, sub_category: Hot-Humid, climate_type: hot-humid, goal: Thermal Comfort}
+- Use evaporative cooling (water and plants): Include ponds, fountains, or misting features in hot-dry and hot-humid courtyards (preferably shaded) to boost cooling by evaporation
+{category: Climate-Responsive Strategies, sub_category: Hot-Humid, climate_type: hot-humid, goal: Thermal Comfort}
+- Incorporate thermal mass in hot-dry climates: Use stone or heavy masonry in floors and walls to absorb daytime heat and release it overnight, smoothing diurnal temperature swings (passive solar storage).
+{category: Climate-Responsive Strategies, sub_category: Hot-Dry, climate_type: hot-dry, goal: Thermal Comfort}
+- Capture breezes in hot-dry climates: Orient and shape courtyards to funnel prevailing winds through the space (e.g. aligning the open side towards cooling breezes) while shading them from intense sun.
+{category: Climate-Responsive Strategies, sub_category: Hot-Dry, climate_type: hot-dry, goal: Thermal Comfort}
+- Seasonal balancing in temperate climates: Use deciduous trees or adjustable louvres to block high summer sun but admit low-angle winter sun. Provide moderate shading and wind protection without over-penetration of sun.
+{category: Climate-Responsive Strategies, sub_category: Temperate, climate_type: temperate, goal: Thermal Comfort}
+- Maximize winter solar gain in cold climates: Design courtyards with south-facing glazing and minimal overhangs to admit winter sun, and use high-mass materials to store this heat. Provide windbreak walls facing prevailing cold winds.
+{category: Climate-Responsive Strategies, sub_category: Cold, climate_type: cold, goal: Heating Comfort}

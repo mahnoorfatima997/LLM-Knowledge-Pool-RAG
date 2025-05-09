@@ -4,7 +4,7 @@ import numpy as np
 import json
 from config import *
 
-embeddings_json= "knowledge_pool/brutalism_wikipedia.json"
+embeddings_json= "knowledge_pool/merged.json"
 
 # Choose between "local" or "openai" mode
 mode = "local" # or "local"
@@ -13,7 +13,7 @@ client, completion_model = api_mode(mode)
 # question = "What is the program for the building?"
 # question = "What is the place like?"
 # question = "Is there any mention of the construction materials that should be used?"
-question = "What are the names of the most famous brutalist buildings?"
+question = "How would I arrange 30 sqm of outdoor space in a humid climate like Brisbane?"
 
 num_results = 1 #how many vectors to retrieve
 
@@ -45,7 +45,7 @@ def rag_answer(question, prompt, model=completion_model[0]["model"]):
     completion = client.chat.completions.create(
         model=model,
         messages=[
-            {"role": "system", 
+            {"role": "user", 
              "content": prompt
             },
             {"role": "user", 
