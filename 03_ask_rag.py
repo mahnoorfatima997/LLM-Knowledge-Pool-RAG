@@ -13,7 +13,7 @@ client, completion_model = api_mode(mode)
 # question = "What is the program for the building?"
 # question = "What is the place like?"
 # question = "Is there any mention of the construction materials that should be used?"
-question = "How would I arrange 30 sqm of outdoor space in a humid climate like Brisbane?"
+question = "Could you give me a design concept for a small courtyard in a humid climate?"
 
 num_results = 1 #how many vectors to retrieve
 

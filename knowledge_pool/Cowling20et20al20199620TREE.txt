@@ -1,0 +1,219 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/49758252
+
+# Plant diversity in Mediterranean-climate regions
+
+Article in Trends in Ecology & Evolution · September 1996
+
+DOI: 10.1016/0169-5347(96)10044-6 · Source: PubMed
+
+|CITATIONS|READS|
+|---|---|
+|1,112|3,707|
+
+5 authors, including:
+
+- Philip W. Rundel
+- Byron B. Lamont
+- Mary Kalin
+
+University of California, Los Angeles
+
+Curtin University
+
+University of Chile
+
+All content following this page was uploaded by Philip W. Rundel on 09 February 2018.
+
+The user has requested enhancement of the downloaded file.# REVIEWS
+
+# Plant diversity in mediterranean-climate regions
+
+# Richard M. Cowling, Philip W. Rundel, Byron B. Lamont, Mary Kalin Arroyo and Margarita Arianoutsou
+
+The five mediterranean-climate regions of the world (Fig. 1, Box 1) occupy less than 5% of the Earth's surface yet harbour about 48,250 known vascular plant species (Table 1), almost 20% of the world total. These regions also have exceptionally high numbers of rare and locally endemic plants and regional plant diversity in all five regions. This review discusses patterns and determinants of local, differential and regional plant diversity in all five regions.
+
+Local diversity shows great variation within and between regions and explanations for these patterns invoke a wide range of hypotheses. Patterns of regional diversity are the result of differential speciation and extinction rates during the Quaternary. These rates have been influenced more by the incidence of fire and the severity of climate change than by environmental heterogeneity. All regions have a high number of rare and locally endemic taxa that survive as small populations, many of which are threatened by habitat transformation.
+
+There has been much interest recently in the patterns, determinants and function of biodiversity in mediterranean-climate ecosystems (e.g. Refs 6-8). Here, we review patterns and determinants of plant species diversity and rarity at various spatial scales. We also highlight aspects from research in mediterranean-climate regions that are salient to the evolution and conservation of plant biodiversity in general.
+
+# Local diversity
+
+At the local scale (0.1 ha or less), the vegetation of mediterranean-climate regions is moderately species-rich by global standards, on average less than half that recorded for tropical rainforests, but much richer than most other temperate communities. Within each region, there is great variation in local diversity. Highest diversity occurs in frequently burnt open heath and scrub on nutrient-poor soils (Australian kwongan and South African fynbos), and the heavily grazed shrublands and woodlands of the eastern Mediterranean Basin (Table 2, see Box 1 for description of vegetation types). Denser shrublands (e.g. chaparral) and woodlands (e.g. eucalyptus forest) have lower diversity.
+
+However, diversity in the immediate post-fire year in chaparral, when a rich fire-ephemeral flora coexists with the re-sprouts and seedlings of long-lived shrubs, approximates that of mature fynbos and kwongan. Growth form diversity is low in fynbos and kwongan, which include many structurally and functionally similar species, often belonging to the same genus, but it is high in vegetation that seldom burns, for example, South African scrub-forest and Chilean matorral. Annuals comprise 15% or more of the local floras in all the mediterranean-climate regions.
+
+Few generalizations emerge from the many studies on local diversity in mediterranean vegetation. It appears that plant diversity is a unimodal function of productivity or other measures of nutrient supply. Most studies on within-guild coexistence are for communities of proteoid (Proteaceae) shrubs in fynbos and kwongan.
+
+Richard Cowling is at the Institute for Plant Conservation, University of Cape Town, Private Bag, Rondebosch 7700, South Africa; Phil Rundel is at the Laboratory of Biomedical and Environmental Sciences, University of California, Los Angeles, CA 90024-1786, USA; Byron Lamont is at the School of Environmental Biology, Curtin University of Technology, PO Box U1987, Perth, WA 6001, Australia; Mary Arroyo is at the Dept of Biology, Faculty of Science, University of Chile, Santiago, Chile; Margarita Arianoutsou is at the Dept of Ecology and Systematics, Faculty of Biology, University of Athens, 15784 Athens, Greece.
+
+0 1996, Elsevier Science Ltd PII: S0169-5347(96)10044-6 TREE vol. 11, no. 9 September 1996# REVIEWS
+
+however, that in frequently burnt shrublands on nutrient-poor soils (fynbos and kwongan), relatively low growth rates and the reshuffling of competitive hierarchies owing to differential post-fire regeneration, allows the coexistence of many seemingly equivalent shrubs and long-lived graminoids13,25. On more fertile soils, where fire-free intervals are longer (chaparral, garrigue, phrygana), shorter-lived species are rapidly excluded by the developing shrub canopy127. In Chilean matorral and grassy shrublands and woodlands in the eastern Mediterranean Basin, both of which seldom burn; grazing by livestock permits the coexistence of both short-lived and long-lived species14,17,32.
+
+# Differentiation diversity
+
+Differentiation diversity refers to compositional change along habitat gradients (beta diversity) and along geographical gradients (gamma diversity)2. High differentiation diversity is largely the product of the evolution of habitat specialists and geographical vicariants2,3.
+
+Comparable and exceptionally high levels of differentiation diversity, amounting to almost complete turnover of fire-killed shrub species along edaphic and geographical gradients, have been recorded in the strongly winter rainfall zones of southwestern Australia and the southwestern Cape3,4,28.
+
+In the southeastern zones of these regions, which experience more summer rain; differentiation diversity is much lower3,18. In California, high turnover is associated mainly with predominantly fire-killed shrub lineages (Arctostaphylos and Ceanothus) and short-lived herbs or annuals (Table 3). The driving force is rapid speciation and/or low extinction rates of habitat specialists and geographical vicariants6,33.
+
+A similar pattern occurs in the Mediterranean Basin where the shrub lineages include Astragalus, Genista and Cistus, and the herbs are mainly annual members of the Compositae and Gramineae7,30. In Chile, high turnover is concentrated in suffrutescent shrubs and perennial herbs belonging to many genera including Senecio, Adesmia, Oxalis and Calceolaria4,15.
+
+# Box 1. Plant life in mediterranean-climate regions
+
+Five geographically remote regions (Fig. 1, Table 1) have mediterranean-type climates with warm, dry summers and cool, wet winters. By agricultural standards, all these regions have infertile soils, especially in southwestern Australia and the southwestern Cape of South Africa (Table 3).
+
+# Regional diversity
+
+Regional diversity (at a scale of 10-106 km2) in mediterranean-climate regions ranks among the highest in the world3,15 (Fig. 2). The southwestern zone of the Cape has the highest diversity at this scale: for a given area, this region has, on average, 1.7 times the diversity of southwestern Australia, about 2.2 times the diversity of the southeastern Cape, California and the Mediterranean Basin, and 3.3 times the diversity of Chile3,15.
+
+Before the onset of global cooling and aridification in the Pliocene, all five regions were clothed in subtropical forest15,36,37. These forests were subsequently replaced by sclerophyllous vegetation and dry woodlands, especially during the Quaternary when seasonal mediterranean-type climates developed. At the same time, fire became a significant factor in all regions except Chile, although contemporary natural fire regimes vary regionally (Table 3).
+
+Although the frequency of Quaternary climatic cycles was probably similar for all regions, glacial conditions were more severe in the northern than southern hemisphere areas36.
+
+The contemporary vegetation of mediterranean-climate regions comprises an admixture of floras derived from relic subtropical forest and recent drought- and fire-adapted lineages, with the latter predominating in all regions, especially in Australia and the Cape4,15,17,33,35,37. The typical vegetation type is evergreen, sclerophyllous shrubland or heathland, namely chaparral in California; matorral in Chile; maquis and garrigue in the Mediterranean Basin; kwongan and mallee in Australia; and fynbos and renosterveld in South Africa.
+
+However, most regions also support extensive areas of forest, woodland and xeric, drought-deciduous and semi-succulent shrubland. The sclerophyllous shrublands of mediterranean-climate regions show varying degrees of ecological convergence8. The most striking is between kwongan and fynbos. They are distinguished from other shrublands by their relatively open shrub cover, high shrub species diversity, and the highest incidence in the world of obligate post-fire reseeders, canopy seed storage (serotiny), and ant seed dispersal (myrmecochory)6,31.# REVIEWS
+
+# Table 1. Plant species diversity and conservation status of mediterranean-climate regions
+
+|Region|Area (106 km2)|Native floraa|Threatened taxab|Major threats|
+|---|---|---|---|---|
+|California|0.32|4300|718|urbanization; agriculture|
+|Central Chile|0.14|2400|?|deforestation, grazing, agriculture|
+|Mediterranean Basin|2.30|25000|4251|deforestation, agriculture, grazing, urbanization|
+|Cape|0.09|8550|1300|invasive alien plants, agriculture, urbanization|
+|SW Australia|0.31|8000|1451|agriculture, deforestation, introduced pathogens|
+
+aData from Refs 3-5, 17 and 21. Percentage endemic is shown in brackets.
+
+bData from Ref. 1.
+
+Data for SE Australia are unavailable.
+
+# Speciation
+
+Speciation models in mediterranean-climate regions usually invoke climate change as the driving force for geographic speciation in topographically heterogeneous environments. Cowling et al. suggest that sympatric speciation could occur when disruptive selection operates on populations that have been isolated by fire or climate change, in habitats (usually soil types) that differ from those of the larger populations of the parent species. There are numerous examples of edaphically differentiated sister taxa in the Cape, southwestern Australia, and California. Since many of these neoendemics are short-lived and have discrete generations, speciation rates may have been very rapid.
+
+# Rarity
+
+Mediterranean-climate regions generally include very high numbers of rare taxa, most of which are locally endemic habitat (principally edaphic) specialists associated with a limited number of lineages. Levels of endemism and rarity are most pronounced in the southwestern Cape and southwestern Australia, where many hundreds of species occur naturally in limited numbers of populations (each ~100 individuals). In these regions, range-restricted, rare taxa are overrepresented among fire-killed shrubs with short dispersal distances.
+
+# Table 2. Patterns of local plant diversity in mediterranean-climate regions
+
+|Type| | |nb|1 m2|1000 m2| | |
+|---|---|---|---|---|---|---|---|
+|Shrublands| | | |California|13|7/6|31/10|
+|Woodlands|Central Chile| |3|8/2|10/0| | |
+|Forest| | | |Mediterranean Basin|29|14/10|70/54|
+|Forest|Cape|54|16/6|70/21| | | |
+|Forest|SW Australia|33|13/10|68/20| | | |
+
+Data from Refs 3, 38 and 39. nb is the number of plots sampled.# REVIEWS
+
+High extinction rates during much of the Quaternary. A similar scenario may apply to the southeastern zone of Mediterranean Australia. An important point is that the differences and similarities in patterns in regional diversity among Mediterranean-climate regions are not the product of chance (cf. Ref. 38), but the deterministic outcome of the effects of slightly different selective forces on speciation and extinction rates of phylogenetically disparate floras.
+
+The interesting implication of these comparisons is that environmental heterogeneity per se is an unsatisfactory predictor of regional diversity patterns. Given certain conditions (stable climates, predictably frequent fires and periodic drought, which promote generation turnover and diversification-prone lineages), natural selection will result in a very fine-scale discrimination of habitats. This is precisely what has happened in the southwestern Cape and southwestern Australia: rapid speciation, coupled with low extinction rates, has produced extremely species-rich landscapes in otherwise relatively homogeneous areas. Here, botanists have identified a multitude of edaphic habitats that may well be the product of rapid speciation leading to high diversity: in Rosenzweig's words, 'Species diversity is the horse; habitat diversity is the cart' (p. 176).
+
+# Fig: 2. Species-area curves and regressions from Mediterranean-climate regions:
+
+Diamonds, SW Australia; filled squares, Cape (SW); unfilled squares, Cape (SE); crosses, Mediterranean Basin; unfilled circles, Chile; filled circles, California. Mediterranean Basin data are from the Iberian Peninsula. All slopes are homogeneous but intercepts (k-values) vary. Relative diversities of the different regions are ratios of their respective k-values: Data from Refs 3, 15 and 41.
+
+# Threats
+
+The Mediterranean-climate regions of the world comprise a substantial portion of the world’s vascular plant flora (Table 1), including many ancient and taxonomically distinctive taxa; thousands of recently evolved species; 26,200 endemic species; many hundreds of endemic genera; and several endemic families; and the Cape Floristic Region (the world's smallest floral kingdom). The conservation status of these regions is, however, very poor, and biodiversity is under severe and rapidly escalating threats.
+
+Agriculture and animal husbandry have been practised in the Mediterranean Basin for 10,000 years, and most ecosystems are now 'human-modified'. Extensive transformations of the other regions began only after colonization by Europeans, about 500 years ago in Chile (earliest), and only 170 years ago in southwestern Australia (latest). All of the regions have very high concentrations of rare plant taxa, whose survival is threatened mainly by clearing for agriculture and urbanization; but also by alien plants and pathogens (Table 1).
+
+# Table 1. Relative environmental characteristics and plant diversity components in Mediterranean-climate regions
+
+| |Soil fertility|Topographic heterogeneity|Climatic heterogeneity|Modal natural fire frequency (yr)|Local diversity|Regional diversity| |
+|---|---|---|---|---|---|---|---|
+|California|moderate|high|very high|40-60|low-moderate|moderate| |
+|Central Chile|high|very high|high|fire-free|low-high|low-moderate| |
+|Mediterranean Basin|high-moderate|high|very high|25-50|low-very high|moderate| |
+|Cape (SW)|very low-moderate|moderate-high|high|10-20|moderate-high|high| |
+|Cape (SE)|low-moderate|moderate|high|10-20|moderate-high|moderate| |
+|SW Australia|very low-low|low|moderate|10-15|low-high|high| |
+
+Data from Ref. 8; data from Refs 8 and 15; data from Refs 8, 18 and 40; see Table 2; data from Refs 2-4; see Fig. 2.# REVIEWS
+
+# Fox, M.D. (1994)
+
+Austrian mediterranean vegetation: intra- and intercontinental comparisons, in Ecology and Biogeography of Mediterranean Ecosystems in Chile, California and Australia (Arroyo, M.T.K., Fox, M.D. and Zedler, P.H., eds), pp. 137-159, Springer-Verlag
+
+# Cody, M.L. (1986)
+
+Structural niches in plant communities, in Community Ecology (Diamond, J. and Case, T.J., eds), pp. 381-405, Harper & Row
+
+# Aronson, J. and Shmida, A. (1992)
+
+Plant species diversity along a Mediterranean-desert gradient and its correlation with interannual rainfall fluctuations, J Arid Environ. 23, 235-247
+
+# Keeley, J.E. and Swift, C.C. (1995)
+
+Biodiversity and ecosystem functioning in mediterranean-climate California, in Mediterranean-Type Ecosystems. The Function of Biodiversity (Davis, G.W. and Richardson, D.M., eds), pp. 121-183, Springer-Verlag
+
+# Naveh, Z. and Whittaker, R.H. (1979)
+
+Structural and floristic diversity of shrublands and woodlands in northern Israel and other mediterranean areas, Vegetatio 41, 171-190
+
+# Lamont, B.B., Enright, N.J. and Bergl, S.M. (1989)
+
+Coexistence and competitive exclusion of Banksia hookeriana in the presence of congeneric seedlings along a topographic gradient, Oikos 60, 291-298
+
+# Lavorel, S. and Lebreton, J.D. (1992)
+
+Evidence for lottery recruitment in Mediterranean old fields, J Veg Sci. 3, 91-100
+
+# Richardson, D.M. et al. (1995)
+
+Coexistence of Banksia species in southwestern Australia: the role of regional and local processes, J. Veg. Sci. 6, 329-242
+
+# Ojeda, F., Arroyo, J. and Maranon, T. (1995)
+
+Biodiversity and conservation of Mediterranean heathlands in southern Spain, Biol Conserv. 72, 61-72
+
+# Arianoutsou-Faragataki, M. (1984)
+
+Post-fire successional recovery of a phryganic (East Mediterranean) ecosystem, Acta Oecol. (Oecol. Plant) 59, 387-394
+
+# Cowling, R.M. et al. (1994)
+
+Species diversity, functional diversity and functional redundancy in fynbos communities, S. Afr. J. Sci. 90, 333-337
+
+# Fuentes, E.R. (1995)
+
+Functional approach to biodiversity in the mediterranean-type ecosystems of Chile, in Mediterranean-Type Ecosystems. The Function of Biodiversity (Davis, G.W. and Richardson, D.M., eds), pp. 186-232, Springer-Verlag
+
+# Le Maitre, D.C. and Midgley, J.J. (1992)
+
+Plant reproductive ecology, in The Ecology of Fynbos. Nutrients, Fire and Diversity (Cowling, R.M., ed.), pp. 135-174, Oxford University Press
+
+# Blondel, J. and Aronson, J. (1995)
+
+Biodiversity and ecosystem function in the Mediterranean Basin. Human and non-human determinants, in Mediterranean-Type Ecosystems. The Function of Biodiversity (Davis, G.W. and Richardson, D.M., eds), pp. 43-119, Springer-Verlag
+
+# References
+
+1. Greuter, W. (1994) Extinction in Mediterranean areas, Philos. Trans. R Soc. London Ser. B 344, 41-46
+2. Cody, M.L. (1986) Diversity, rarity and conservation in mediterranean-climate regions, in Conservation Biology. The Science of Scarcity and Diversity (Soule, M.E., ed.), pp. 122-152, Sinauer
+3. Cowling, R.M., Holmes, P.M. and Rebelo, A.M. (1992) Plant diversity and endemism, in The Ecology of Fynbos. Nutrients, Fire and Diversity (Cowling, R.M., ed.), pp. 62-112, Oxford University Press
+4. Hopper, S.D. (1992) Patterns of plant diversity at the population and species level in south-west Australian mediterranean ecosystems, in Biodiversity of Mediterranean Ecosystems in Australia (Hobbs, R.J., ed.), pp. 27-46, Surrey Beatty
+5. Arroyo, M.T.K. and Von Bohlen, C. (1994) Distribution patterns of endemic species in the mediterranean-type flora of central Chile, Noticiero Biol. 2, 12
+6. Rosenzweig, M.L. (1995) Species Diversity in Space and Time, Cambridge University Press
+7. Huston, M.A. (1994) Biological Diversity. The Coexistence of Species in Changing Landscapes, Cambridge University Press
+8. Hobbs, R.J., Richardson, D.M. and Davis, G.W. (1995) Mediterranean-type ecosystems. Opportunities and constraints for studying the function of biodiversity, in Mediterranean-Type Ecosystems. The Function of Biodiversity (Davis, G.W. and Richardson, D.M., eds), pp. 1-42, Springer-Verlag
+9. Bond, W. (1983) On alpha diversity and the richness of the Cape flora; a study in southern Cape fynbos, in Mediterranean Type Ecosystems. The Role of Nutrients (Kruger, F.J., Mitchell, D.T. and Jarvis, J.U.M., eds), pp. 337-356, Springer-Verlag
+10. Keeley, J.E. (1992) A Californian’s view of fynbos, in The Ecology of Fynbos. Nutrients, Fire and Diversity (Cowling, R.M., ed.), pp. 372-388, Oxford University Press
+11. Bond, W.J., Cowling, R.M. and Richards, M.B. (1992) Competition and coexistence, in The Ecology of Fynbos. Nutrients, Fire and Diversity (Cowling, R.M., ed.), pp. 205-226, Oxford University Press
+12. Raven, P.H. and Axelrod, A.I. (1978) Origin and relationships of the California flora, Univ. Calif. Publ. Bot. 72, 1-134
+13. McDonald, D.J. et al. (1995) Modelling the biological aspects of local endemism in South African fynbos, Plant Syst. Evol. 195, 137-147
+14. Herrera, C.M. (1992) Historical effects and sorting processes as explanations for contemporary ecological patterns: character syndromes in Mediterranean woody plants, Am. Nat. 140, 421-446
+15. Deacon, H.J. (1983) The comparative evolution of mediterranean-type ecosystems, in Mediterranean Type Ecosystems. The Role of Nutrients (Kruger, F.J., Mitchell, D.T. and Jarvis, J.U.M., eds), pp. 3-40, Springer-Verlag
+16. Fuentes, E.R. (1995) Functional approach to biodiversity in the mediterranean-type ecosystems of Chile, in Mediterranean-Type Ecosystems. The Function of Biodiversity (Davis, G.W. and Richardson, D.M., eds), pp. 186-232, Springer-Verlag
+17. Arroyo, M.T.K. et al. (1994) Convergence in the mediterranean floras in central Chile and California: insights from comparative biogeography, in Ecology and Biogeography of Mediterranean Ecosystems in Chile, California and Australia (Arroyo, M.T.K., Fox, M.D. and Zedler, P.H., eds), pp. 43-88, Springer-Verlag
+18. Westoby, M. (1993) Biodiversity in Australia compared with other continents, in Species Diversity in Ecological Communities. Historical and Geographical Perspectives (Ricklefs, R.E. and Schluter, D., eds), pp. 13-25, University of Chicago Press
+19. Kruger, F.J. (1983) Plant community diversity and dynamics in relation to fire, in Mediterranean Type Ecosystems. The Role of Nutrients (Kruger, F.J., Mitchell, D.T. and Jarvis, J.U.M., eds), pp. 447-472, Springer-Verlag
+20. Molera Mesa, J. and Perez Raya, F. (1987) La Flora de Sierra Nevada, Universidad de Granada

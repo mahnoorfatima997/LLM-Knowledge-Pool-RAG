@@ -1,0 +1,147 @@
+# ARCHITECTURAL DESIGN BASED ON CLIMATIC DATA
+
+Aslý Pýnar Biket
+
+Faculty of Architecture, Yýldýz Technical University,
+
+aertekin@yildiz.edu.tr
+
+# ABSTRACT
+
+All living creatures’ creation, proliferation and existence depend on the best climate conditions. Since human activities do not generally occur under natural conditions, the problem of creating a comfortable interior environment with the purpose of meeting needs is as old as the history of mankind. Human beings have been searching for ways to protect or to benefit from the natural climatic conditions. Climate is one of the most important factors that effect both architectural design and urban planning. Location, texture, shape, direction, dimension, distance etc. of the building, should be analyzed and applied correctly, in order to provide the best climate comfort indoors. In this paper, the effect of climate on architectural designs will be examined with a detailed research of buildings under different climate conditions.
+
+Keywords: Macro Climate, Mezzo Climate, Micro Climate, Sun, Wind, Climate Region
+
+# INTRODUCTION
+
+Since human activities do not generally occur under natural conditions, the problem of creating a comfortable interior environment with the purpose of meeting needs is as old as the history of mankind. One of the main principles of architecture is to establish artificial environments that provide comfortable spaces for human life. A building, which is the produce of architecture, is a physical environment that is created in line with these requirements. Therefore, one of the expected functions of a building is to provide an interior environment that is controlled in terms of climatic comfort. Effects of climate conditions on a building are certainly one of the most important natural factors that shape architectural studies.# Asli Pýnar Biket
+
+# ARCHITECTURAL DESIGN BASED ON CLIMATIC DATA
+
+Climate that is significant among building design criteria, is based on the average of the effects collectively caused by atmospheric events somewhere on earth over many years. It should be remembered that formation, reproduction and continuation of living activities of all living creatures depend on suitable climate conditions.
+
+Climatic variables can be examined in three main groups as macro climate, mezzo climate and micro climate. The climate that interacts according to geography is called macroclimate; the climate that is based on regional flora and environment is named as mezzo climate and microclimate is climate on a local scale. The changes in the artificial environment that includes protection or utilization decisions for the existing macro and mezzo climates form the microclimate.
+
+Macro and mezzo climates are the same on an area where there is no settlement. Landscape design made after construction of a building on land, surrounding buildings and decisions about building form made during the design stage; make up the microclimate of the building and its surroundings.
+
+Climate is one of the most important factors that affect both architectural design and urban planning. The identification, understanding and control of the climatic effects at the location of the building are crucial even before design decisions are made. Climate of a location develops by its geographical position on earth, height above sea level, topography and flora. As a result of all these conditions, different climate regions and thus different climatic design criteria are established.
+
+Climate conditions are effective in arrangement of building designs, determination of requirements, selection of equipment and building method, and accordingly the formation. Different climate systems generate regional architectural characteristics.
+
+Planning and forming the building in accordance with the regional climatic data are based on enabling the building to get minimum heat during the hottest season of the year and lose minimum heat during the coldest season of the year. However, many buildings in our country today have plans and forms that were designed without taking the regional climatic data into consideration.
+
+Climatic comfort conditions in a building should be achieved by means of economic usage of building materials and mechanical systems. In order to attain this objective, the existing climate conditions should be used as data and solution should be found in order to utilize the positive effects of the climate in building form and building shell and eliminate the negative effects of the climate.# 1st International CIB Endorsed METU Postgraduate Conference
+
+# Built Environment & Information Technologies, Ankara, 2006
+
+During the building design stage, the climate components that should be maintained should firstly be determined and then requirements should be specified accordingly.
+
+External climate components that affect the formation of internal environmental climatic conditions are sunrays, air temperature, relative humidity, precipitation and atmospheric actions.
+
+The required thermal comfort values should be determined, the daily and annual durations of use of the building should be specified according to the quantity and activity levels of users of the building. This data should be used in making decisions regarding the position, direction, form, interior planning and building shell design of the building in urban planning and applying these decisions.
+
+Climatic variables and requirements that are effective in design should be determined in full in order to prevent excessive heating, optimize cold airflow, use natural cooling methods in hot weather and increase heat gains (through natural ways), ensure heat storage and proper heat distribution in cold weather.
+
+From a scientific point of view, the factors and climatic components that determine the climate as an integration of the effects of all the meteorological factors on earth in a long period of time in a certain region can be examined in three main groups:
+
+# Sun and Temperature
+
+Sun and therefore heat is one of the most important climate components because the generally used indicator of climatic comfort is air temperature and relative humidity. Sun is the most important energy source in lighting and heating forms and surfaces in architecture. The sun is not only a heat source but also a significant light source whose quality varies during the day and according to the seasons. While applying architectural solutions in order to utilize the sun at the maximum level in winter, refraction components are needed in order to be protected from the torrid heat of the sun in summer.
+
+# Pressure and Winds
+
+Formation of a strong pressure zone is inevitable in the direction of the wind. It is possible to increase or decrease the amount of this pressure by means of corridors created between buildings. While airflow is needed in hot and humid regions, shadowing measures should be taken in hot and dry regions. For this reason, direction of buildings is determined according to the angle of sunrays in some regions while planning is made according to the dominant wind directions in summer in some other regions. Determination of wind requirement differs in each climate region. Wind requirement is important during the entire year in low latitudes, however protection is required in high latitudes. Wind factor that is# Asli Pýnar Biket
+
+# COOL (45 north)
+
+# TEMPERATE
+
+| | |Relative|Rainfall|Seasonal variations|
+|---|---|---|---|---|
+|0%|100%|0%|100%| |
+
+# ARID
+
+# TROPICAL
+
+# Desirable wind direction
+
+# Undesirable wind direction
+
+# Figure 1. Desirable and Undesirable Wind Directions
+
+# Figure 2. Seasonal Variations
+
+needed according to climate regions should be taken into account when making decisions about planning (story height and distances between buildings).
+
+# Precipitation and Humidity:
+
+Precipitation type and amount that varies according to geographical properties affect architectural design. Since the amount of precipitation affects humidity rate, some measures may have to be taken in order to prevent discomfort in the building and its surroundings. When various climate regions are observed, it is seen that low rate of humidity is preferred in dry climates whereas it causes discomfort in tropical climate regions.
+
+# URBAN PLANNING AND DESIGN ACCORDING TO DIFFERENT CLIMATE REGIONS
+
+# Cold Climate Region
+
+The principle of maximum heat gain and minimum heat loss, stands out in building designs in these regions because of the rainy and cool weather.
+
+Multi-layered and nested interior spaces that keep the heat inside and the cold air outside should be designed in cold climate regions. Heat loss should be reduced by using minimum floor area in residential buildings.
+
+Segmented architecture should be avoided in urban scale. In urban architecture, compact and intensive urban textures that are close to each other and do not allow wind inside are observed. Fully and partially subterranean closed communication channels that utilize the temperature of the earth and located underground or# 1st International CIB Endorsed METU Postgraduate Conference
+
+# Built Environment & Information Technologies, Ankara, 2006
+
+Above ground, covered or semi-covered bazaars, coved streets and avenues with arcades are the components of the architectural texture.
+
+The settlement texture should be designed with the purpose of preventing the effects of wind, and spaces that can utilize the sun at the maximum level should be created while grouping big building units. The hillsides facing south and southeast should be preferred during the selection of residential areas in order to utilize the sun. Moreover, the middle sections of these hillsides can be suitable to reduce the wind effect and to be protected from the cold airflow.
+
+Natural materials such as bricks and adobe bricks that have high heat storage capacities are often seen in building constructions in such climate regions. The materials used should have high heat absorption capacity. The exterior surface is smooth and dark colored (absorbent) and the roofs are pitched. Optimum sun orientation is 12 degrees east.
+
+# Mild Climate Region
+
+This kind of climate is the most suitable climate that provides comfort with minimum temperature difference between summer and winter. The characteristic of mild climates is the presence of different climate conditions caused by the seasons. Protection against cold weather and utilization of the sun should be provided during winter and the cooling effects of the wind should be benefited in summer.
+
+In this kind of climate regions, the orientation in 17.5 degrees east from the south provides the balance in heat dispersion. Orientation of high buildings should be determined according to the wind effect.
+
+Building formation should prevent wind and allow sun in the coldest period and be wide surfaced and prevent sun during the hottest period. Surface coating materials such as grass, soil, asphalt, stone, etc. should be used in the spaces between buildings. The materials to be used between buildings should be chosen to prevent wind during the least hot period and accelerate wind, reflect sunrays and provide absorbent surface balance during the hottest period.
+
+During the winter, sun control should be applied in the holes in the walls and ceilings in order to utilize the sun at the maximum level. The dimensions and properties of the windows vary according to the regions. The same situation is also valid for wall and roof materials and coatings. Sloping roofs are generally used in this kind of climate regions.
+
+# Hot-Humid Climate Region
+
+In hot-humid regions, excessive humidity is observed in addition to the pestiferous excessive heat. For this reason, insulated roofs are used for sun and rain.# Asli Pýnar Biket
+
+The protection and the environment of the building is opened. Thus, humidity problem is reduced naturally with the help of air circulation.
+
+The spaces where the main functions are dominant in buildings are constructed at a higher level from the ground in order to allow the wind flow from the bottom. Thus, excessive sun and humidity are prevented in the space. Another widely used property is the court formations that allow wind and are controlled with shadows.
+
+In such regions, an unnested texture is dominant which is quite the contrary of hot-dry regions. The reason of this is the placement of buildings in such a way that do not block each other’s wind in order to reduce the effects of excessive sun and humidity. Buildings are located properly to allow cool wind from both directions.
+
+Airflows are generated by leaving spaces between the roof and the buildings in order to reduce the effect of excessive sunrays and humidity in hot-humid regions.
+
+The ground floors generally have thick walls and fewer windows whereas upper floors have more windows. The windows are placed in the wind direction with the purpose of controlling sun and humidity effect by means of ventilation. Balconies that are open to wind are also comforting architectural components.
+
+Another characteristic of this kind of regions is wide-sided roofs that look like hats in order to be protected from rain.
+
+In hot-humid climate regions, high windy areas should be preferred. In solar orientation, a 5-10 degrees deviation from south towards east can be suitable.
+
+As a conclusion, it is necessary to find the right solutions for settlement and design in terms of climate utilization and protection by taking neighboring buildings and close surroundings into consideration in building formation, as one of the main principles of architecture is to create artificial environments that provide comfortable spaces for the users.
+
+The designs that are in compliance with the climate not only can meet the comfort requirements of the users but also are important in terms of sustainable energy maintenance for living and environmental issues, as they create high quality interior spaces by using minimum resources.
+
+As a result of fast population increase and unplanned urbanization, unhealthy, characterless and insensitive new environments are being created without taking physiological and climatic requirements into account in opposition to traditional architectural systems. This process affects the quality of urban life negatively and stands out as a planning and design problem.# 1st International CIB Endorsed METU Postgraduate Conference
+
+# Built Environment & Information Technologies, Ankara, 2006
+
+# REFERENCES
+
+- AKIN, T., (2001), Doðal Çevre Etmenlerine Baðlý Olarak, Yerleþme ve Bina Ölçeðinde Ýklimle Dengeli Konut Tasarýmý Denetleme Modeli, Y.T.Ü. Fen Bilimleri Enstitüsü, (unpublished Ph.D Thesis), Ýstanbul
+- ARONIN, J.E. (1953), Climate and Architecture, U.S.A.
+- BERKÖZ, E. (1973), Binalarýn Yönlendiriliþ Durumlarýnýn Belirlenmesi.
+- CAMCIGIL, S.Z. (1990), Geleneksel Türk Evinde Ýklim ve Etkilerinin Araþtýrýlmasý, M.S.Ü., Ýstanbul.
+- ÇOBAN, M. (1999), Güneþ-Mimari Tasarým Ýliþkisi, Y.T.Ü., Ýstanbul.
+- GÖKSU, Ç. (1993), Güneş ve Kent, O.D.T.Ü., Ankara
+- KÜRKDOÐU, Þ. (1982), Gün Iþýðýndan Yararlanmada En Etkili Olan Hacim Derinliðinin Belirlenmesi, Ý.T.Ü.Yayýný, Ýstanbul.
+- RASMUSSEN, E. (1994), Yaþana Mimari, Remzi Kitabevi, Ýstanbul.
+- TAÞPINAR, A.S. (1977), Mimaride Gün Iþýðý & Gaziantep Kampüsüne Uygulamasý, O.D.T.Ü. Basýmevi, Ankara.
+- UYDURAN, C. (1996), Adana Evlerinin Ýklimsel Açýdan Ýncelenmesi, M.S.Ü., Ýstanbul.
+- ZORER, G. (1992), Yapýlarda Isýsal Tasarým Ýlkeleri, Y.T.Ü.Yayýnlarý, Ýstanbul.

@@ -1,0 +1,498 @@
+# The University of Manchester Research
+
+# Optimizing the design of courtyard houses for passive cooling in hot, dry regions
+
+DOI: 10.1080/19401493.2022.2134460
+
+# Document Version
+
+Accepted author manuscript
+
+Link to publication record in Manchester Research Explorer
+
+# Citation for published version (APA):
+
+Khan, H. M., Lane-Serff, G. F., & Dewsbury, J. (2022). Optimizing the design of courtyard houses for passive cooling in hot, dry regions. Journal of Building Performance Simulation. https://doi.org/10.1080/19401493.2022.2134460
+
+# Published in:
+
+Journal of Building Performance Simulation
+
+# Citing this paper
+
+Please note that where the full-text provided on Manchester Research Explorer is the Author Accepted Manuscript or Proof version this may differ from the final Published version. If citing, it is advised that you check and use the publisher's definitive version.
+
+# General rights
+
+Copyright and moral rights for the publications made accessible in the Research Explorer are retained by the authors and/or other copyright owners and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these rights.
+
+# Takedown policy
+
+If you believe that this document breaches copyright please refer to the University of Manchester’s Takedown Procedures http://man.ac.uk/04Y6Bo or contact openresearch@manchester.ac.uk providing relevant details, so we can investigate your claim.
+
+Download date: 09. May. 2025# Optimizing the design of courtyard houses for passive cooling in hot, dry regions
+
+Hayder M. Khan¹, Gregory F. Lane‑Serff², Jonathan Dewsbury²
+
+¹Department of Civil and Architectural Engineering, Sultan Qaboos University, Muscat, Oman
+
+²School of Mechanical, Aerospace and Civil Engineering, the University of Manchester, Manchester, UK, M13 9PL
+
+# Abstract
+
+The courtyard is an architectural element found in hot arid regions due to its thermal performance that gives it cooler temperatures than the outside resulting from shading and night cooling. Previous papers focus only on either shading or ventilation and never together. This paper employs CFD techniques to simulate heat transfer in the courtyard. The results are presented through time constants showing the response of the thermal mass of the building containing the courtyard toward solar radiation and night cooling and the effect of both being combined in a factor called the Night‑Time Effectiveness Ratio (NTER). The research includes simulation for different courtyard sizes and other building elements around the courtyard, like galleries. The results show the importance of the courtyard's width in changing the performance of night ventilation. Adding extra shading elements such as galleries can enhance thermal performance by 30% - 60%.
+
+# Keywords
+
+Courtyard, Night cooling, CFD
+
+# Notation
+
+|A|(Area)|(m²)|
+|---|---|---|
+|AR|Aspect ratio| |
+|C|Coefficient| |
+|Cp|Specific heat|(J kg‑1 K‑¹)|
+|H|Height|(m)|
+|h|Convective Heat Transfer Coefficient (CHTC)|(W m‑2 ᵒK‑¹)|
+|𝐸|Heat flux|(W m‑2)|
+K Von Karman’s constant (W m‑1 k‑1)
+
+k Kinetic energy of turbulent (m² s‑²)
+
+L Length (m)
+
+𝑙 Wall thickness (m)
+
+M Mass (kg)
+
+NTER Night Time Effectiveness Ratio
+
+Q Heat (m3 s ‑¹)
+
+P Pressure (Pa)
+
+T Temperature (ᵒC or K)
+
+t Time (day, hour, s)
+
+𝜏𝛿 Time constant (s)
+
+U Velocity (m s‑¹)
+
+V Volume (m³)
+
+W Width (m)
+
+Z Depth (m)
+
+𝜀 Dissipation rate of turbulent kinetic energy (m²s‑³)
+
+𝜌 Density (kg m‑3)
+
+# 1. Introduction
+
+The importance of the courtyard house has returned because of the escalation in energy consumption in the Middle East region. In this region, the energy consumption per capita is twice the world's average and has a growth rate of 55%. About 32% of the energy consumption goes into the building sector [1]. Due to the hot weather in the region, 40 ‑ 70% of the energy consumption in domestic buildings is used to run air conditioning systems [2]. This growth in energy consumption also plays a vital role in environmental issues like global warming and climate change with the Middle East having a higher CO₂ emission intensity than developed countries, as explained in the work of Al‑Hinti et al. [3]. The paper by Radhi [4] predicted that the growth of global warming would increase outdoor temperature. This will lead to more energy consumption in the air conditioning systems and put us inside a closed loop where energy consumption increases global warming and the latter will increase energy use. The researchers in the region suggest that the increase in energy consumption can come from the change to unsustainable building designs in the last decades due to population and economic growth. These designs are adopted from outside the region and are not responsive to climate needs [2,5]. The solution for excess consumption canbe by learning from traditional designs that existed before in the region, as suggested by Almatawa et al. [6]. Traditional designs are long forgotten after the adoption of more modern designs. However, the trend now is to re‑study them and extract design information that may help reuse them in future buildings.
+
+A courtyard is defined according to Rojas et al. [7] as "built spaces which are delineated by the interior facades of the buildings, or those spaces which are situated within the interior alignments of a plot". Courtyard houses can be found in many places around the world with different climates from the far east of Asia to Latin America [8]. It is the traditional form of house in the Middle East where its roots can be traced back thousands of years [9] and it continued until the middle of the last century when it gradually began to be replaced by more modern houses.
+
+Besides being a shelter for its occupants, the house provides thermal comfort by generating a cooler local climate than outside by using natural ventilation during the night and solar shading during the daytime [10]. This form of the building is preferable for the hot and arid climate [11] because it provides proper shading without the need for additional architectural elements and the shading is the primary technique for passive cooling in the region due to intensive solar radiation [12]. The shading also decides the design of the courtyard house, where all living spaces are located around a rectangular open area [13]. Courtyards can come in different shapes, but the most common for houses is rectangular because this shape will provide the maximum shading compared with other shapes like squares or circles, as shown in the studies of Taleghani et al. [14]. Shading in the courtyard was examined by many other works like the papers of Mohsen [15], Muhaisen [16], and Soflaei et al. [17], which indicate the influence of the dimensions on the solar irradiation on the walls of the courtyard. Where a shallow courtyard receives radiation more than a deep courtyard and the latter is preferable due to solar intensity in the region.
+
+The deepness of the courtyard does not only affect the amount of solar radiation on the walls but also affect the airflow patterns inside the courtyard. Here the works of Hall et al. [18] and Oke [19] show that the airflow in an urban canyon due to the wind is similar to that in a courtyard and can be classified into a similar classification. When winds hit a building, the air stream will be separated into different streams, re‑attached later, and merged into one stream after the building. In the case of a shallow courtyard that is large enough, the downwind wall of the courtyard does not affect the stream inside the courtyard (i.e., the re‑attached stream). The stream returns to the upwind profile and this case is called 'isolated roughness.' When the walls are closer, all of the air in intermediate deep courtyard rotates as a single vortex. This case is called 'wake interference'. The last type named 'skimming flow', which occurs in deep and small courtyards where the vortex only penetrates part of the depth of the courtyard. Therefore, the courtyard dimensions are the criteria that affect the different airflow patterns. The courtyard can be classified according to the ratio between the height and width Aspect Ratio (AR), specifically referring to a deep courtyard (AR more than one), intermediate deep courtyard (AR 0.3‑1.0) or a shallow courtyard (AR 0.1,0.2) [18] and the dimensions are shown in Figure 1 with an example of a traditional house from Baghdad. The figure shows a house continues behind the gallery next to the courtyard, the gallery has a significant role in shading the walls, as shown in the paper Berkovic et al. [20]. They conclude from a numerical study that the gallery can provide the highest shading potential for the courtyard's walls compared with shading provided by other elements like trees.With shading, the building thermal mass plays a vital role in the generation of microclimate in the courtyard, where the relatively low humidity and clear night sky in the hot arid area encourage the heat loss from the house's thermal mass by long‑wave radiation into the sky (nocturnal cooling or radiant cooling). In addition, a high diurnal temperature range where the night air temperature is much colder than the daytime air temperature characterizes the hot and dry areas. This can further cool the thermal mass by convection through night natural ventilation [21]. The building's thermal mass is an important element in traditional buildings where the walls are built with a thickness that can reach over 50 cm and are constructed from heavy materials like bricks and stone [22,23]. The thermal mass of the building will provide a thermal sink to absorb the heat generated during the day and release it into relatively cold air at night through natural ventilation and radiant cooling. Thus, heat is gained and lost in the house through convection and radiation heat transfer. Taleb et al. [2] demonstrated the effect of natural ventilation by reducing energy consumption by 30% in courtyard houses in a hot arid climate.
+
+|Wind|Width|
+|---|---|
+|1|Walls|
+|Soil floor| |
+|Gallery and rooms|Courtyard|
+|4 to 6 m|Section A|
+|A|Downwind|
+|Left wall|wall|
+|A|The house|
+|Gallery|Room|
+|Length|Typical Baghdadi House|
+# Figure 1: Model of a courtyard house.
+
+The dimensions and orientations are chosen from the work of Mohsen [24] and Oke [19]. The typical house is from the work of Oscar [25]. However, there is a discrepancy in the requirement for night ventilation and shading, where the ventilation needs the openings, like the courtyard, to be large enough and shallow to supply the air required so it can discharge the heat, and this is recommended in works like Etheridge [26] for openings. But the courtyard needs to be deep to reduce solar radiation, which will reduce the house's ventilation potential as shown in the experiments of Hall et al. [18]. Furthermore, traditional courtyard houses usually increase the shading by being built in closely packed shapes and being next to a narrow and deep alleyway [27] with few or no windows overlooking the outside [28]. This closed urban design has an essential role in reducing heat stress in the urban fabric by reducing the solar radiation received by the walls around alleyways, which will reduce the radiant temperature and air temperature as concluded from the field study of Arrar et al. [29]. This makes the courtyard the main opening for fresh air for the house. A shallow courtyard will allow for ventilation, but more solar radiation will enter, reducing the shading effect. This raises the question of how to find the design that achieves the balance between shading and ventilation. Previous courtyard studies focus on techniques like airflow and ventilation only, as in the studies by Hall et al. [18], Moonen et al. [37] and Tablada et al. [38], or they show the effect of solar radiation only, as in the work of Mohsen [15,24] and Muhaisen [16]. To the authors’ knowledge, no previous work examined the effect of both airflow and solar radiation within the courtyard and how the combined effects will change the microclimate inside the courtyard. The conflict between shading and ventilation can be resolved by using the Nighttime Effectiveness Ratio (NTER) [30] as a factor to decide on the optimum design for the best shading and ventilation combination. The method depends on the concept of the time constant, where it compares the time constant for heating the mass of the building during the day with the time constant required to discharge the heat from the mass during the night. The significance of this paper is to test the role of various building elements on ventilation and shading represented through one factor, NTER, to decide the optimal design of the house.
+
+The variables required to calculate NTER, including surface temperature, the convective heat transfer coefficient and the heat transfer, could be found by using software for Computational Fluid Dynamics (CFD). CFD has been used for a long time in ventilation problems such as in Nielsen's work [31]. Zhai [32] also shows a steady increase in the use of CFD in ventilation papers and Chen [33] argues in his article that CFD is the most popular numerical technique used for ventilation modeling. Heidari et al. [34] used CFD to conduct a parametric study in order to predict the natural ventilation potential in vernacular buildings. They preferred CFD over other methods like full-scale measurement due to its flexibility as it easily allowed for the simulation of different building configurations. Many numerical computational techniques, including the building Energy Simulation Program (ESP) or microclimate simulation programs, can simulate a building. However, Al-Hafith et al. [35] showed that using the ESP software will lead to inaccurate performance predictions and López-Cabeza et al. [36] indicated that using microclimate simulations to examine a courtyard will lead to differences between the simulated and monitored data which is outside of the acceptable limits.# In conclusion
+
+This paper aims to enrich the understanding of traditional house designs in hot arid regions to use them again in new houses. The method that will use is to simulate many geometry parameters within the courtyard and around it, and this research uses NTER factor and time constants to analyze the results, and the factor will consider both shading and ventilation. After this section, a brief explanation of NTER and CFD will be explained. Then the results will present and end the paper with the conclusions.
+
+# 2. Methodology
+
+# 2.1 Mathematical Method
+
+The NTER depends on the temporal nature of night cooling versus daytime heating. During the night, the walls lose heat by convection to relatively cold air, and the walls that have exposed surfaces to the sky lose heat by radiation to the atmosphere due to the reasonably low temperature of the sky. The following daytime, the same walls will gain heat again by radiation from the sun and by convection from the warmer outdoor air and this cycle will repeat itself. It is complicated to determine the amount of heat rejected or received using analytical methods because the building elements have different dynamic thermal conditions. This pushes researchers like Yam et al. [39] to use the time constant. The time constant simulates the time needed to discharge and charge the walls with heat. For our case, different time constants are needed, one during the day and a second for the night. The time constants should contain thermal mass and heat transfer through both convection and radiation.
+
+The time constant for the whole volume of the structural element like a wall side or roof can be written as a ratio between the heat stored in the thermal mass to the heat loss or gain as shown in Equation 1:
+
+𝜏𝛿 = 𝜌𝑚𝑐𝑝𝑚𝑙𝑇𝑑𝑖𝑢𝑟𝑛𝑎𝑙 𝑎𝑚𝑝𝑙𝑖𝑡𝑢𝑑𝑒 (1)
+
+𝐸f+ℎ(𝑇 −𝑇 )
+
+𝑠  𝑖
+
+Here, 𝜌𝑚 and 𝑐𝑝𝑚 is the density and specific heat of the building's thermal mass, 𝑙 is the thickness of the thermal mass, 𝑇𝑑𝑖𝑢𝑟𝑛𝑎𝑙 𝑎𝑚𝑝𝑙𝑖𝑡𝑢𝑑𝑒 is the amplitude for the outdoor temperature, 𝐸f is the heat flux due to solar radiation, ℎ is the convective heat transfer coefficient, 𝑇 is the indoor air temperature (inside the courtyard) and 𝑇 represents the average surface temperature. Equation 1 includes the thermal mass of the building in the numerator and the heat transfer by convection and radiation in the denominator and can be used to predict the time taken for both the charging and discharging of the buildings with light thermal mass only as the walls have a spatial average temperature where the surface and core have nearly the same temperature, which is in harmony with the diurnal temperature. However, buildings designed for night ventilation usually have a heavy thermal mass, which makes the walls require a fixed outdoor temperature for several hours or days so they have a uniform temperature, which cannot happen due to periodic changes in the.ambient temperature and means that Equation 1 only indicates the time needed for charging and discharging. Different Walls usually gain different rates of solar irradiation and they have various heat transfer coefficients, the total heat gains (Qₜₒₜₐₗ) in the room as in Equation 2 so the total time scale for the courtyard should include different elements like walls and ground, and their share from the total time constant is proportional to the ration of its mass to total zone mass as shown in Equation 3.
+
+Heat storage in the room: Qtotal = ∑i=16 Qi (2)
+
+So
+
+1 = ∑i=16 (M cp)i 1 (3)
+
+τδ total = ∑i=16 (M cp)total τδi
+
+Here, (i) represents the different surfaces of the room's envelope, such as the walls and ground. M is the mass of the building elements. For night cooling, it is better to have a building with the value of τδ as high as possible during daytime and as low as possible during the night. To determine the feature of the building design that can achieve such conditions the factor NTER is found from Equations 4:
+
+Nighttime Effectiveness Ratio (NTER) = Time constant for discharge * Dt (4)
+
+Time constant for charge
+
+And the value of (Dt)
+
+Dt = (Number of daytime hours * |ambient temperature (during daytime) - daily average temperature|)
+
+Number of nighttime hours * |ambient temperature (during night) - daily average temperature| (5)
+
+The value of Dt as shown in Equation 5 is used to compensate for the differences between the number of daytime hours and nighttime hours during summer and where night cooling will be more efficient in cases with the lowest NTER value.
+
+NTER is a mathematical tool used to compare any buildings or building elements that may have a different level of solar irradiation and flow field on their external enclosure. It combines the effect of heat transfer by convection and radiation with thermal mass. The authors used this factor to judge the different cases covered by this paper. To find the NTER, it is first necessary to calculate the time constant by finding the values of the heat transfer coefficient (h), heat transfer by radiation (Ef), surface temperature and indoor temperature. These values can be found using CFD, here Figure 2 shows the steps required to get the value of NTER from the CFD model.# Objective
+
+Deciding on the role of the design parameters of the courtyard house on thermal performance of the house.
+
+# Role of NTER factor
+
+# Methodology
+
+Numerical Simulation
+
+CFD model
+
+Time constants equation
+
+1. CFD outputs
+2. Total time constant during the day and the night
+3. Heat transfer Coefficient
+4. Radiation heat transfer
+
+# Cases
+
+- Dimensions
+- Gallery
+- Parapet
+- Alleyway
+- Courtyard cover
+
+# Results
+
+Optimum dimensions for the courtyard
+
+Figure 2: The procedures to calculate the NTER value.
+
+# 2.2 Computational methods
+
+The CFD method was used to simulate airflow in and around the building and to predict the temperature distribution and heat transfer in the air and building structure. The method divides the simulation zone into several cells (mesh) and solves a discretized version of the energy and momentum conservation equation for each cell. The pressure‑velocity coupling is achieved using second‑order discretization (SIMPLE algorithm) similar to that used by King et al. [40]. The effect of air turbulence was simulated using one of Reynolds‑Averaged Navier–Stokes equations (RANS), which are realizable k‑ε models [41]. The effect of the variations in air density due to natural convection was simulated using the Boussinesq approximation. The software used for thesimulation was STAR CCM+ from Siemens PLM [42]. The dimensions of the computational domain (Figure 3) were according to the recommendations of the benchmark by Franke et al. [43]. The software simulates the flow and thermal conditions inside and outside the courtyard because of the strong connection between the two [44].
+
+|STAR-CCM+|Outlet|8H|
+|---|---|---|
+|18H|5H|The House|
+|Inlet|5H|7H|
+|ISTAR-CcM+|Courtyard|hight|
+|Courtyard Length|Courtyard Width| |
+
+Figure 3: The computational domain.# 1.4
+
+| |1.2|10.8|0.6|0.4|0.2|
+|---|---|---|---|---|---|
+| |-0.5|0.5|1.5| | |
+
+Figure 4: Comparison between the three scenarios for the mesh and experimental data.
+
+For grid generation, a non‑uniform unstructured polyhedral mesh was used with a prism layer for the surfaces. The grid size was decided by using a mesh sensitivity study which led to more mesh density in and around the house. Figure 3 shows a typical domain with refinement in the blocks around the house where the mesh size is equal to half the size of the cells of the domain. Figure 4 shows the effect of the mesh size and local refinement on the accuracy of the numerical simulation compared with the experimental data (EXP) according to Hall et al. [18]. The first case is for a mesh of a proper size and local refinement (Fine) and the second case (LARGE) is for a case with a grid size twice Fine's size. The final case is like the previous case but without local refinement (NO REFIN). The drawing shows that the closest case to the experiment is the Fine case and that the errors are increased when the mesh size is increased and when there is a further rise in the case without local refinement. For the number of grids, a minimum of 10 grid levels between the ceiling and floor was found to be sufficient to model the temperature change in the vertical direction in the room due to convection and stratification. Generally, the number of grids in the order of millions where such an order is similar to that found in other works such as those by Shen et al. [45]. The computational model was validated by comparing it with the experimental works of Hall et al. [18] where the model predicted the velocity distribution in the courtyard with a maximum difference between the experimental values and numerical prediction equal to 10%. The maximum difference happens at roof level (H/Hmax equal to one) due to the flow's separation and reattachment induced by the winds interacting with buildings walls and roof. However, inside the courtyard, the maximum difference is less than 5%.
+
+The value of the convective heat transfer coefficient is calculated using the specified Y+ heat transfer coefficient. This method gets around the use of a specific reference temperature that maylead to significant errors, especially in the case of a zone with a temperature gradient (stratification or convection). This method uses the bulk temperature at a user‑specific Y+ instead of the bulk mean temperature. The bulk was set to be around 0.1 m from the wall where it is more than the usual thickness of the boundary layer from the wall for the flow over the vertical or horizontal surface as shown by the work of Novoselac [46].
+
+The software uses a solar load model to impose solar radiation on the building surface. The intensity of solar radiation was changed according to the time, date and location as in Table 1. A grey body radiation model was used to fix the radiation properties regarding the wavelength. The surface‑to‑surface radiation model (S2S) was applied to calculate the heat transfer by radiation between the house and the environment.
+
+# Table 1: Boundaries and parameters of the simulation.
+
+|Brick with thermal conductivity = 0.69 W K‑¹m‑¹, specific heat = 840 J kg‑1 K‑¹, density= 1600 kg m‑3, thickness =0.2 m, emissivity = 0.8 and reflectivity =0.2.| |
+|---|---|
+|Walls, roof and floor|All of the external surfaces are insulated by extruded polystyrene with thermal conductivity = 0.032 W K‑1m‑1, specific heat = 1.21 J kg‑1 K‑1, density= 33.5 kg m‑3, thickness =0.05 m and reflectivity =1.0.|
+|Courtyard (Cover)|Emissivity = 0.1 and reflectivity =0.6 [47]. The thermal resistance for the fabric is around 0.02 m²K W‑¹|
+|Initial conditions|Daytime: room air temperature =300 K, outside air temperature =313 K, wall temperature = 300 K|
+| |Night‑time: room air temperature =305 K, outside air temperature = 297 K, wall temperature = 305 K|
+|Boundary conditions|Wind speed at 10m from ground = 5 m s‑1 for normal cases and = 0.5 m s‑1 for low wind cases|
+| |Daytime ambient temperature = 313 K. Night‑time ambient temperature = 297 K|
+| |Sky temperature = 0.0552 (Toutdoor air )1.5 [48]|
+|Time step and total time|3 seconds and continuing for 3600 s|
+|Date and time|Summer solstice day, 21ˢᵗ Jun 2012, 12 PM for daytime and 12 AM for nighttime [49]|
+|Place of the simulation|Baghdad city, Latitude 33.3ᵒ N and longitude 44.3ᵒE|
+The boundary conditions for the domain were set in such a way as to simulate the atmospheric boundary layer. The lateral sides and top are set as a slip wall which is numerically similar to the asymmetrical wall. The ground was set as a no‑slip wall. The outlet will be treated as a pressure outlet with atmospheric pressure. The inlet boundary will be treated as a velocity inlet where the horizontal velocity, kinetic energy and turbulent dissipation can be found using the equations suggested by Richards and Hoxey [50] to simulate the atmospheric boundary layer. The simulations were set to represent the house under weather conditions that are usual in the region such as 40ᵒC for the daytime and a relatively high wind speed with 𝑈ℎ equal to (5 m s‑1). For the nighttime, the wind speed is reduced to 0.5 m s‑1, which minimizes the effect of advection and shows the effect of nocturnal radiant cooling. The wind velocities during the nighttime are typically lower than the velocities during the daytime, especially during the summer [51]. The wind direction is fixed for all cases from the inlet of the computational domain to the outlet.
+
+# 2.3 The simulation cases
+
+The first section of the results will test AR's effect on radiation and convection through NTER. The simulation in that stage will consider a variety of sizes with up to 70 different designs of a courtyard with AR values ranging from 0.2 to 4 with the length and width change from 1 m to 40 m with two heights of either 4 m or 8 m. Here the two heights will represent single storey houses and the second is two storey houses. The designs were chosen to cover all flow patterns, as shown on the right of Figure 5.
+
+After the first section, the work aims to check the impact of the gallery. The previous model was changed to contain a gallery, as shown in Figure 6A. The test includes various depths for the gallery at 1, 1.5 and 2 m, where 1 m is the minimum depth in accordance with building standards [52]. The gallery roof is straight due to the work of Fardeheb [53], which showed that there is no significant effect from the roof angle on courtyard cooling.
+
+|0.20|0.20| | |
+|---|---|---|---|
+|0.25|Isolated roughness flow|0.25|Case|
+|20.33|Wake interference|0.33| |
+|0.50|0.50| | |
+|Skimming|Canvon|Lih|IH|
+
+Figure from (Oke) shows the changes of flow patterns with dimensions.
+
+Cases which have been tested# Figure 5:
+
+The change in flow patterns according to the different dimensions (on the left) from Oke [19] and the cases simulated.
+
+|Gallery depth|External and Internal parapet|External parapet|Internal parapet| | |
+|---|---|---|---|---|---|
+|One level|Two levels|Two levels|Two levels| | |
+| |A|B| | | |
+
+# Figure 6:
+
+A section view of a house with a gallery and (A) and Cases for the location of the parapet (B).
+
+Traditional houses usually have a flat roof [54]. The roof often has a high parapet on the external edge of the roof 2 m height from the edge [55] and a smaller transparent balcony parapet on the courtyard edge (1 m height [56]). They may choose such a design to minimize the effect of the wind on dissipating the cold air generated during the night by radiant heat loss to the sky, directing the cold air towards the courtyard. The work of Mohsen [15] shows the importance of using a higher non‑transparent parapet around the courtyard edges to provide extra shading. This is inconsistent with the design of traditional houses and indicates the need to study further the effect of a parapet on the thermal climate inside the house where a section is devoted to testing the effect of the location of the parapet. Due to this, 3 scenarios have been considered; the parapet on the external edges of the house, the parapet on the border of the courtyard and the parapet on both the internal and external edges of the house. The parapet is 2 m high in all cases. Figure 6B shows the three scenarios where all of the models are for houses with two levels which are more efficient at providing thermal comfort than just one level.
+
+In addition, the role of alleyways on the thermal conditions inside the courtyard was tested. A traditional alleyway and a modern street are different in size, where the alleyway is narrower than the modern street. A narrow alleyway will provide more shading and improve thermal comfort. Bourbia and Awbi [57] showed that the temperature inside alleyways is less than the peak outdoor temperature, and the width of a traditional alleyway is between 2 ‑ 6 m [57,58]. According to Ratti et al. [59], the courtyard form of the building has the highest ratio of surface area to volume of a standalone structure, making the courtyard house gain more solar radiation. It would be better to reduce the outer surface area by putting the courtyard in conjunction with other courtyards without leaving any spaces (i.e., a terrace courtyard) in mass blocks of buildings [17]. Our simulation work focuses on traditional alleyways with an AR equal to two, which means that it is surrounded by houses built as terraced houses, as shown in Figure 7.# Topopening
+
+# Bottom opening
+
+# Figure 7: The model for the house with an alleyway.
+
+Four scenarios have been considered for the relationship between a courtyard and an alleyway. The first scenario is for the courtyard not connected to the alleyway, followed by the courtyard being connected to the alleyway by openings at the top and bottom of the courtyard. This is in addition to the courtyard being connected with the alleyway by an opening at the top of the courtyard only (Top) and the courtyard being connected with the alleyway by a bottom opening only (Bottom). The opening dimensions were chosen to be 2x4 m (Height x Width) and the percentage of the opening area to the total façade area is between 5 to 10 % where the windows take up a small share of building exterior in traditional houses as shown in [60,61]. The initial thermal conditions in the alleyway and courtyard have been kept the same, where walls of an identical temperature surround both.
+
+In the last cases, the courtyard shaded was tested during the day to reduce the solar radiation of the courtyard and walls around it. This cover needs to allow some solar radiation to enter the courtyard as daylight, so the cover was simulated as a fabric with high transmittance of solar radiation. The courtyard was not fully covered; a distance was left equal to 0.5 m [62] from the walls to vent the courtyard. The effect of the courtyard cover is shown in the results' last section.
+
+The parameters covered in this paper and the cases examined have summarized in Table 2.
+
+# Table 2
+
+|Parameters and Cases Examined|Parameters and Cases Examined|
+|---|---|
+|Parameter|Value|
+|Opening Dimensions|2x4 m|
+|Percentage of Opening Area|5 to 10 %|
+|Distance from Walls|0.5 m|
+|Case|Parameter|Range|
+|---|---|---|
+|Dimensions|Length, height and width of the courtyard as in Figure 5|Length and width from 1 to 40 m. Building heights 4 and 8 m|
+| |Gallery depth as in Figure 6a|1, 1.5 and 2 m|
+|Gallery|G1|1|
+| |G1.5|1.5|
+| |G2|2|
+|Parapet|(2 m height) on the border of the courtyard on the external edges of the house as in Figure 6b| |
+| |P1|External edges of the house|
+| |P2|Border of the courtyard|
+| |P3|Both of outer edge and border of the courtyard|
+|Alleyway|One or more openings with an adjacent alley at the ground level or the first-floor level, as in Figure 7| |
+| |A1|Top opening (first level)|
+| |A2|Bottom opening (ground level)|
+| |A3|Both openings are open top and bottom|
+| |A4|Both openings are closed|
+|Courtyard cover|Add a cover at the top level of the courtyard| |
+| |C1|Cover|
+
+# 3. Results and Discussion
+
+Here, the assumption was made that it is preferable to have the value for the daytime constant as high as possible since a low value can be an indicator of both a high wall temperature and an air temperature resulting from intensive solar radiation on the courtyard surfaces. Figure 8 shows the time constant values during the daytime hours, where the values decrease with the increasing width of the courtyard. The values increase and decrease was attributed to changes in the air velocity inside the courtyard and its effect on the value Convective Heat Transfer Coefficient (CHTC).Average velocities increase with the increasing width of the courtyard, which gives enough space for the vortex to penetrate through the whole depth of the courtyard. This can increase the convection to relatively colder air, decreasing the time constant.
+
+| |Length (m)|1|1| | | |
+|---|---|---|---|---|---|---|
+|3| |8| | |0-8| |
+|2| |12| | |416| |
+|2| |16| | |24| |
+| | |20| | |--40| |
+| |Width (m)| | | | | |
+| |(Single storey)| | | | | |
+| | | | | |(Two storeys)| |
+
+Figure 8: The time constant during the daytime.
+
+The time constant during the night is shown in Figure 9. The time constant should be as low as possible (opposite to during the daytime), where it potentially represents the time needed to discharge the heat from the walls around the courtyard. However, the time constant values during the day are much lower than that for the night time, indicating that the structure receives more heat than it can lose. This causes the heat to accumulate in the building mass, creating a higher wall temperature and thus warmer air the next day, potentially even higher than the ambient temperature. The relatively higher values for the time constant during the night are due to low wind speed, which limits the values of variables like CHTC. This will make the time constant more dependent on the changes in heat loss by radiation to the sky, where it rises with an increase in the exposed area to the sky as in the case of increasing the courtyard width.
+
+Mathematically the ratio between the day and night time constants can be represented through the use of the Nighttime Effectiveness Ratio (NTER) and the change in the NTER with courtyard width has been shown in Figure 10. The mathematical definition for NTER is given in Equation 4, indicating that an efficient house should have a value for the NTER less than one. This is where the time for discharging the heat is less than the time for charging the heat, which can remove the heat accumulation and increase the efficiency of thermal mass for the house in terms of reducing the air temperature in the following days. However, in Figure 10 the values are over one because the heat discharge to the sky during the night is not as high as the heat gain from solar radiation during the daytime, which causes the values of the NTER to be more than one.# Figures 8 to 10 show the changes in time constant and NTER with the change in dimensions.
+
+The effect of the length is limited but its effect increased with the increasing height of the courtyard, as in the case of a two‑storey house. The result of the height variation is also unclear, so width is the primary dimension. This does not necessarily mean that height and length do not have a role, but that their roles are limited. Height can change the radiation rate gained or lost while the length effect is clearer in wider and deeper courtyards. Their impact is not as high as the impact of width.
+
+This can explain why much of the research on courtyard houses with limited areas used an aspect ratio equal to the ratio between height and width, as in work by Meir et al. [63] and Rojas et al. [7]. Figure 10 shows that the lowest values for NTER are for the courtyards with widths from 2 to 8 m for both groups. These are the smallest courtyards in both groups apart from the courtyard with a width equal to 1m in the first group. This width was excluded because it is too short to play a role in the house.
+
+Therefore, the focus for the rest of the cases will be on courtyards with widths 2, 4 and 8, length equal to 4 m and height equal to 8 m (two‑level house). These dimensions represent three aspect ratios AR 4, AR 2 and AR 1.
+
+Reducing the amount of solar irradiation through shading devices like galleries can enhance the passive cooling inside the house. Besides reducing solar radiation, the gallery also changes theflow pattern. The same circulation flow patterns exist in the courtyard. Still, it is weaker due to the increase in internal volume, and air velocity is near zero in most zones adjacent to the ceiling and ground. A further reduction in NTER is achieved by using galleries in two‑level houses (as in Figure 6a), where the values of NTER are shown in Figure 11 while the time constants are in Figures 12 and 13. The values of NTER were reduced by 60% at the ground level and 17% at the first level. Most of the reduction is in the ground level, which benefits from the combined shading of the courtyard and gallery. This combined shading results in a sharp decrease in solar radiation, which is more for the ground floor than on the first floor and can cause the air temperature to drop by 20% at the ground level.
+
+| |AR 4 Ground|AR 2 Ground|AR 1 Ground|AR 4 First|AR 2 First|AR 1 First|
+|---|---|---|---|---|---|---|
+|Without|61.5|62|P1|P2|P3| |
+
+Figure 11: NTER values for cases of gallery and parapet.
+
+| |AR 4 Ground|AR 2 Ground|AR 1 Ground|AR 4 First|AR 2 First|AR 1 First|
+|---|---|---|---|---|---|---|
+|Without|61|61.5|62|P1|P2|P3|
+
+Figure 12: Time constant during the day.# Figure 13: Time constant during the night.
+
+| |Without|61|61.5|62|P1|P2|P3|
+|---|---|---|---|---|---|---|---|
+|AR 4Ground|3⁶⁰|1|50|40|1|30|~AR 2 Ground|
+|AR 1Ground|20|AR 4First|10|AR 2 First|AR 1 First| | |
+
+During the night in a house with galleries, airflow is dominated by the buoyancy flow from the warm walls, which enforces fresh air circulation through the different building levels. While the daytime, the flow field in the first level is similar to the case of a house with one level. The flow at the ground level is minimal, indicating that the ground level is isolated from the external flow. This improves the thermal comfort, but it shows that the courtyard is not well ventilated, and there is a need for an additional device to provide ventilation. So, adding a gallery to the house will increase the time constant during the night, and the values of NTER will drop due to the increase in the value of the daytime constant. The result also explains the importance of galleries at the ground level and why galleries are a favorite design in hot arid areas with two-level houses, a similar conclusion was found by other researchers such as Baran et al. [23].
+
+The results show that adding galleries to the house ends the role of the parapet in reducing the solar radiation on the walls, which causes all scenarios to have almost identical values for the time constant, especially at the ground level (Figure 12) compared to the gallery case (G2). Adding a parapet to the external parameters of the house will increase the role of the temperature of the air layer above the horizontal roof. This temperature will be higher than the courtyard air temperature during the daytime because solar irradiation is higher on the horizontal surface of the roof than on vertical walls. In the same way, the heat lost by radiation will be higher during the night, which will lower the temperature of the air layer compared with courtyard air. In both cases, the air from the roof will sink down to the courtyard and change the air temperature, especially in the first level which causes a decrease in the time constant value during the day and night and this can cause the time constant during the night to drop by 10%. However, the values of NTER for ground level did not change that much from the case without a parapet, as shown in Figure 11. The effect of the parapet is minimized due to the presence of a gallery. It is better to have the parapet on the external border of the house to obtain a lower time constant during the night.
+
+One interesting feature of the courtyard when it is opened to the alleyway is that the flow pattern is changed from a circulation flow, where air enters and exits through the top of the courtyard, to a crossflow. In this case, the air stream will enter the courtyard through the void at the top of the.courtyard and discharge to the adjacent alleyway through the opening (or openings). This flow type is called "yard to yard flow" [64]. This change in flow pattern can cause relative increases in the speed of the air inside the courtyard. Due to the rise in airflow, more outdoor air is introduced inside the courtyard. However, this increase in flow can cause the air temperature during the day to be higher than that found in the courtyard with no or less connected to the outside.
+
+The opening at the first‑floor level will mainly have a local effect. The opening at the ground level (bottom opening) will be more efficient to ventilate both levels where outdoor air enters from the opening and leaves from the top of the courtyard. Furthermore, the time constant values (as in Figures 14 and 15) suggest that the effect of two openings is similar to one opening at the ground level. The highest time constant during the day is for the closed case, then for the upper opening, and putting an opening in the ground level of the courtyard. This can cause a reduction in the value of the time constant. The effect of the opening position is less important for the first level and relatively big courtyards as in AR 1. The opening is less important because they gain enough solar radiation. Generally, the air temperature inside the courtyard in cases Bottom (A2) and both openings (A3) is equal to or higher than the outdoor temperature. Courtyard, in these cases, loses its microclimate and restricts its role in providing shading.
+
+For the night, the lowest value for the time constant is for the Bottom case. This suggests that the best performance for night ventilation and cooling of the courtyard is for a house with an opening in the bottom that opens only during the night. Further increases in the performance of night ventilation can be achieved by covering the courtyard from the top during the day as in the case (C1). The covering will cause a reduction in solar radiation and sequentially a cutting off for the values of NTER, as shown using NTER in Figure 16.
+
+| |AR 4 Ground|AR 2 Ground|AR 1 Ground|AR 4 First|AR 2 First|AR 1 First|
+|---|---|---|---|---|---|---|
+|Time Constants|60|50|40|30|20|10|
+
+Figure 14: Time constants during the daytime.                 80
+                 70
+                3₆₀                                                           AR 4 Ground
+               1 50                                                           AR 2 Ground
+                 40                                                           AR 1 Ground
+               1 30                                                           AR 4 First
+                 20                                                           AR 2 First
+                                                                              AR 1 First
+                 10
+                          A1         A2/c1          A3          A4
+                          Figure 15: Time constants during the night.
+                   12
+                   10
+                                                                                 AR 4 Ground
+                                                                                 AR 2 Ground
+                    6                                                            AR 1 Ground
+                                                                                 AR 4 First
+                    4                                                            AR 2 First
+                                                                                 AR 1 First
+                           A1        A2        A3         A4
+  Figure 16: The NTER values for the cases that include an opening between the courtyard
+            and the alleyway and the use of a courtyard cover during the daytime.
+In the final of this section, an optimal design of a courtyard house can be set which has been found
+through  a  combination  of  CFD  and  comparing  daytime  heat  gain  to  night  cooling  appears  to
+coincide with the typical designs found in hot arid regions that have evolved over many centuries
+(see Figure 17).
+This  instils  confidence  that  our  method  captures  the  important  physical  processes  accurately,
+meaning that our work can form the basis for studying further modifications incorporating some
+modern  features  such  as  phase  change  materials  to  enhance  the  thermal  mass  effect as  well  as
+applying  the  model  in  other  climates  to  see  if  it  results  in  changes  to  the  optimal  building
+configuration.
+21# Wind
+
+Parapet with enough height (2m), with more thermal performance covering the courtyard during the day will protect the microclimate inside the courtyard of the house.
+
+The two-storey house will have the highest shading. Deep gallery (2m or more) can improve the performance of night cooling.
+
+To provide more fresh air the house should have opening(s) to the outside through doors or windows, especially in ground level in night time. Courtyard should be deep and narrow with AR less than 2.
+
+Figure 17: The "optimal" courtyard house.
+
+# 4. Conclusions
+
+This paper used CFD to assess the use of night cooling and shading as passive cooling techniques in a courtyard house found in hot and arid climate and as a way to reduce the energy consumption of the housing sector. The assessment shows the effect of different architectural parameters on the NTER and time constant. The results are summarized as follows:
+
+1. All of the courtyard dimensions affect the thermal conditions inside the courtyard. However, the width shows more influence than others do. This is while considering the limited options regarding the building height of the houses. During the night, an increase in width can increase the heat discharge but the amount of heat gained during the day is much higher than the value of heat lost during the night. This indicates the importance of reducing the heat gained during the day rather than increasing the heat lost during the night.# 2. Adding a gallery is essential to reduce solar radiation and the penetration of the outdoor hot air.
+
+The highest effect is achieved by increasing the depth of the gallery and changing the building to two levels instead of one.
+
+# 3. The parapet location has a small effect on the thermal conditions at the ground level
+
+and a relatively higher role on the thermal conditions in the first level. It is still limited compared with the gallery. This can be due to the presence of a horizontal projection represented by the gallery, which reduces the effect of the parapet. However, the results show that the highest performance is for a parapet located on the external edges of the house.
+
+# 4. For the relationship between the alleyway and the courtyard
+
+it has been shown that it is best for the courtyard to open onto the alleyway only at night, which gives the lowest time constant during the night. During the day, it is better not to have a connection between the courtyard and the alleyway to get a lower time constant.
+
+# 5. The best performance for the NTER was achieved in the house with a deep and narrow courtyard
+
+that contained a gallery and parapet on the external border of the house. More improvement can be achieved by covering the courtyard during the afternoon. Furthermore, NTER could be used on different types of buildings that may use night ventilation, including commercial or governmental buildings and other building shapes.
+
+The paper suggests the proper aspect ratio for courtyards and the main dimensions for various building elements like a gallery or parapet in a courtyard house. This information can be beneficial for building designers in designing a more sustainable house. Furthermore, it shows an example of using the NTER factor in examining different geometry parameters, which may help in future studies related to passive cooling and building energy. However, this paper did not consider conditions in rooms around the courtyard where people spend most of their time. Also, the simulation does not include elements such as wind catchers, which can increase the ventilation potential or vegetation inside the courtyard lowering the air temperature through evaporative cooling. These elements and others are important for microclimate. They need to be addressed in future works focusing on the connection between room dimensions and windows with the courtyards, and the role of vegetation and water pond.
+
+# 5. Declaration of interest statement
+
+The authors declare that there is no conflict of interest regarding the publication of this paper.
+
+# 6. References
+
+1. BP p.l.c., Regional insight (Middle East), BP Global. (2019). https://www.bp.com/en/global/corporate/energy‑economics/energy‑outlook/country‑and‑regional‑insights/middle‑east‑insights.html (accessed June 23, 2019).
+2. H.M. Taleb, T. Wriekat, H. Hashaykeh, Optimising natural ventilation using courtyard strategies: CFD simulation of a G + 1 office building in Madinah, International Journal of Sustainable Energy. 0 (2020) 1–26. https://doi.org/10.1080/14786451.2020.1748027.# References
+
+1. I. Al‑Hinti, A. Al‑Ghandoor, B. Akash, E. Abu‑Nada, Energy saving and CO2 mitigation through restructuring Jordan’s transportation sector: The diesel passenger cars scenario, Energy Policy. 35 (2007) 5003–5011. https://doi.org/10.1016/j.enpol.2007.04.024.
+2. H. Radhi, Evaluating the potential impact of global warming on the UAE residential buildings – A contribution to reduce the CO2 emissions, Building and Environment. 44 (2009) 2451–2462. https://doi.org/10.1016/j.buildenv.2009.04.006.
+3. H.A. Gharibi, Urban Growth from Patchwork to Sustainability. Case Study: Muscat, (2014) 323.
+4. M.S. Almatawa, A.A. Elmualim, E.A. Essah, Passive and active hybrid approach to building design in Saudi Arabia, in: Kos, Greece, 2012: pp. 163–174. https://doi.org/10.2495/ARC120151.
+5. J.M. Rojas, C. Galán‑Marín, E.D. Fernández‑Nieto, Parametric Study of Thermodynamics in the Mediterranean Courtyard as a Tool for the Design of Eco‑Efficient Buildings, Energies. 5 (2012) 2381–2403. https://doi.org/10.3390/en5072381.
+6. M. Vellinga, P. Oliver, A. Bridge, Atlas of Vernacular Architecture of the World, Routledge, 2007. https://books.google.com.om/books?id=b7rYAAAAMAAJ.
+7. B. Edwards, M. Sibley, P. Land, M. Hakmi, Courtyard Housing: Past, Present and Future, Taylor & Francis, 2006. https://books.google.com.om/books?id=RySTtVEyIpQC.
+8. A. Ghaffarianhoseini, U. Berardi, A. Ghaffarianhoseini, Thermal performance characteristics of unshaded courtyards in hot and humid climates, Building and Environment. 87 (2015) 154–168. https://doi.org/10.1016/j.buildenv.2015.02.001.
+9. M.D. Egan, Concepts in thermal comfort, Prentice Hall PTR, 1975. https://books.google.com.om/books?id=gDpSAAAAMAAJ.
+10. M. Santamouris, D. Asimakopoulos, Passive Cooling of Buildings, James & James, 1996. https://books.google.com.om/books?id=tLHsJ0‑vEkYC.
+11. S. Cho, N. Mohammadzadeh, Thermal comfort analysis of a traditional Iranian courtyard for the design of sustainable residential buildings, in: Proceedings of 13th Conference of International Building Performance Simulation Association, Chambéry, France, 2013.
+12. M. Taleghani, M. Tenpierik, A. van den Dobbelsteen, Environmental impact of courtyards— a review and comparison of residential courtyard buildings in different climates, Journal of Green Building. 7 (2012) 113–136. https://doi.org/10.3992/jgb.7.2.113.
+13. M.A. Mohsen, Solar radiation and courtyard house forms—I. A mathematical model, Building and Environment. 14 (1979) 89–106. https://doi.org/10.1016/0360‑1323(79)90014‑3.
+14. A.S. Muhaisen, Shading simulation of the courtyard form in different climatic regions, Building and Environment. 41 (2006) 1731–1741. https://doi.org/10.1016/j.buildenv.2005.07.016.
+15. F. Soflaei, M. Shokouhian, W. Zhu, Socio‑environmental sustainability in traditional courtyard houses of Iran and China, Renewable and Sustainable Energy Reviews. 69 (2017) 1147–1169. https://doi.org/10.1016/j.rser.2016.09.130.
+16. D.J. Hall, S. Walker, A.M. Spanton, Dispersion from courtyards and other enclosed spaces, Atmospheric Environment. 33 (1999) 1187–1203. https://doi.org/10.1016/S1352‑2310(98)00284‑2.
+17. T.R. Oke, Street design and urban canopy layer climate, Energy and Buildings. 11 (1988) 103–113. https://doi.org/10.1016/0378‑7788(88)90026‑6.# References
+
+1. S. Berkovic, A. Yezioro, A. Bitan, Study of thermal comfort in courtyards in a hot arid climate, Solar Energy. 86 (2012) 1173–1186. https://doi.org/10.1016/j.solener.2012.01.010.
+2. B. Givoni, Performance and applicability of passive and low‑energy cooling systems, Energy and Buildings. 17 (1991) 177–199. https://doi.org/10.1016/0378‑7788(91)90106‑D.
+3. S.H.Alwan. Al‑Azzawi, A descriptive, analytical and comparative study of traditional courtyard houses and modern non‑courtyard houses in Baghdad: in the context of urban design in the hot‑dry climates of the subtropics., PhD thesis, University of London, 1984.
+4. M. Baran, M. Yıldırım, A. Yılmaz, Evaluation of ecological design strategies in traditional houses in Diyarbakir, Turkey, Journal of Cleaner Production. 19 (2011) 609–619. https://doi.org/10.1016/j.jclepro.2010.11.001.
+5. M.A. Mohsen, Solar radiation and courtyard house forms II: Application of the model, Building and Environment. 14 (1979) 185–201. https://doi.org/10.1016/0360‑1323(79)90037‑4.
+6. R. Oscar, Bait al‑Iraqi fi Baghdad wa Mudun Ukhra 2006 البيت العراقي في بغداد ومدن عراقية اخرى.
+7. D. Etheridge, Natural Ventilation of Buildings: Theory, Measurement and Design, Wiley, 2011. https://books.google.com.om/books?id=EQvBeHyKhNsC.
+8. B.S. Saini, Building in hot dry climates, J. Wiley, Chichester [England]; New York, 1980.
+9. M. Khoukhi, N. Fezzioui, Thermal comfort design of traditional houses in hot dry region of Algeria, Int J Energy Environ Eng. 3 (2012) 5. https://doi.org/10.1186/2251‑6832‑3‑5.
+10. F.H. Arrar, D. Kaoula, M.E. Matallah, A. Abdessemed‑Foufa, M. Taleghani, S. Attia, Quantification of Outdoor Thermal Comfort Levels under Sea Breeze in the Historical City Fabric: The Case of Algiers Casbah, Atmosphere. 13 (2022) 575. https://doi.org/10.3390/atmos13040575.
+11. H.M.M.M. Khan, Modelling and Thermal Optimization of Traditional Housing in a Hot Arid Area, University of Manchester, 2015. https://books.google.com.om/books?id=xNkMvwEACAAJ.
+12. P.V. Nielsen, Flow in Air‑Conditioned Rooms, PhD thesis, Technical University of Denmark, 1974.
+13. Z. Zhai, Application of Computational Fluid Dynamics in Building Design: Aspects and Trends, Indoor and Built Environment. 15 (2006) 305–313. https://doi.org/10.1177/1420326X06067336.
+14. Q. Chen, Ventilation performance prediction for buildings: A method overview and recent applications, Building and Environment. 44 (2009) 848–858. https://doi.org/10.1016/j.buildenv.2008.05.025.
+15. A. Heidari, S. Sahebzadeh, Z. Dalvand, Natural Ventilation in Vernacular Architecture of Sistan, Iran; Classification and CFD Study of Compound Rooms, Sustainability. 9 (2017). https://doi.org/10.3390/su9061048.
+16. O. Al‑Hafith, B.K. Satish, S. Bradbury, P. de Wilde, Simulation of courtyard spaces in a desert climate, Energy Procedia. 142 (2017) 1997–2002. https://doi.org/10.1016/j.egypro.2017.12.401.
+17. V.P. López‑Cabeza, C. Galán‑Marín, C. Rivera‑Gómez, J. Roa‑Fernández, Courtyard microclimate ENVI‑met outputs deviation from the experimental data, Building and Environment. 144 (2018) 129–141. https://doi.org/10.1016/j.buildenv.2018.08.013.
+18. P. Moonen, V. Dorer, J. Carmeliet, Evaluation of the ventilation potential of courtyards and urban street canyons using RANS and LES, Journal of Wind Engineering and Industrial Aerodynamics. 99 (2011) 414–423. https://doi.org/10.1016/j.jweia.2010.12.012.# References
+
+1. A. Tablada, B. Blocken, J. Carmeliet, F. Troyer, The influence of courtyard geometry on air flow and thermal comfort: CFD and thermal comfort simulations, (2005).
+2. J. Yam, Y. Li, Z. Zheng, Nonlinear coupling between thermal mass and natural ventilation in buildings, International Journal of Heat and Mass Transfer. 46 (2003) 1251–1264. https://doi.org/10.1016/S0017‑9310(02)00379‑4.
+3. M.‑F. King, H.L. Gough, C. Halios, J.F. Barlow, A. Robertson, R. Hoxey, C.J. Noakes, Investigating the influence of neighbouring structures on natural ventilation potential of a full‑scale cubical building using time‑dependent CFD, Journal of Wind Engineering and Industrial Aerodynamics. 169 (2017) 265–279. https://doi.org/10.1016/j.jweia.2017.07.020.
+4. T.‑H. Shih, W.W. Liou, A. Shabbir, Z. Yang, J. Zhu, A new k‑ϵ eddy viscosity model for high reynolds number turbulent flows, Computers & Fluids. 24 (1995) 227–238. https://doi.org/10.1016/0045‑7930(94)00032‑T.
+5. Multiphysics computational fluid dynamics (CFD) simulation software | Siemens Software, Siemens Digital Industries Software. (n.d.). https://www.plm.automation.siemens.com/global/en/products/simcenter/STAR‑CCM.html (accessed July 8, 2022).
+6. J. Franke, A. Hellsten, H. Schlünzen, B. Carissimo, The COST 732 Best Practice Guideline for CFD simulation of flows in the urban environment: A summary, International Journal of Environment and Pollution. 44 (2011) 419–427. https://doi.org/10.1504/IJEP.2011.038443.
+7. Z. Zamani, S. Heidari, P. Hanachi, Reviewing the thermal and microclimatic function of courtyards, Renewable and Sustainable Energy Reviews. 93 (2018) 580–595. https://doi.org/10.1016/j.rser.2018.05.055.
+8. X. Shen, G. Zhang, B. Bjerg, Comparison of different methods for estimating ventilation rates through wind driven ventilated buildings, Energy and Buildings. 54 (2012) 297–306. https://doi.org/10.1016/j.enbuild.2012.07.017.
+9. A. Novoselac, Combined Airflow and Energy Simulation Program for Building Mechanical System Design, (2004). https://etda.libraries.psu.edu/catalog/6476 (accessed August 21, 2019).
+10. ASHRAE, 2009 ASHRAE Handbook: Fundamentals, American Society of Heating, Refrigeration and Air‑Conditioning Engineers, 2009.
+11. W.C. Swinbank, Long‑wave radiation from clear skies, Quarterly Journal of the Royal Meteorological Society. 89 (1963) 339–348. https://doi.org/10.1002/qj.49708938105.
+12. Z. Zamani, S. Heidari, M. Azmoodeh, M. Taleghani, Energy performance and summer thermal comfort of traditional courtyard buildings in a desert climate, Environmental Progress & Sustainable Energy. 38 (2019) e13256. https://doi.org/10.1002/ep.13256.
+13. P.J. Richards, R.P. Hoxey, Appropriate boundary conditions for computational wind engineering models using the k‑ϵ turbulence model, Journal of Wind Engineering and Industrial Aerodynamics. 46–47 (1993) 145–153. https://doi.org/10.1016/0167‑6105(93)90124‑7.
+14. Bengjamin. Stein, J.S. Reynolds, Mechanical and electrical equipment for buildings, McGraw‑Hill, New York, 2000.
+15. E. Allen, J. Iano, The Architect’s Studio Companion: Rules of Thumb for Preliminary Design, Wiley, 1995. https://books.google.com.om/books?id=irVsQgAACAAJ.
+16. F. Fardeheb, Cooling Capacity of a Courtyard House with a Sloping Roof, in: D.Y. Goswami, Y. Zhao (Eds.), Proceedings of ISES World Congress 2007 (Vol. I – Vol. V), Springer Berlin Heidelberg, 2009: pp. 451–455.# References
+
+1. G. Manioğlu, Z. Yılmaz, Energy efficient design strategies in the hot dry area of Turkey, Building and Environment. 43 (2008) 1301–1309. https://doi.org/10.1016/j.buildenv.2007.03.014.
+2. I. Fethi, J. Warren, Traditional Houses in Baghdad: البيوت التقليدية في بغداد, Goach Publishing House, 1982. https://books.google.com.om/books?id=n5m5swEACAAJ.
+3. A. Al‑Haidary, The Baghdad house, Al‑Mada P.C., Damascus, 2008.
+4. H.B. Awbi, Ventilation of Buildings, Taylor & Francis, 2003.
+5. E. Johansson, Influence of urban geometry on outdoor thermal comfort in a hot dry climate: A study in Fez, Morocco, Building and Environment. 41 (2006) 1326–1338. https://doi.org/10.1016/j.buildenv.2005.05.022.
+6. C. Ratti, D. Raydan, K. Steemers, Building form and environmental performance: archetypes, analysis and an arid climate, Energy and Buildings. 35 (2003) 49–59. https://doi.org/10.1016/S0378‑7788(02)00079‑8.
+7. I. Ahmad, E. Khetrish, S.M. Abughres, Thermal analysis of the architecture of old and new houses at Ghadames, Building and Environment. 20 (1985) 39–42. https://doi.org/10.1016/0360‑1323(85)90029‑0.
+8. A. Konya, Design Primer for Hot Climates, Elsevier Science, 2013. https://books.google.com.om/books?id=2‑3fBAAAQBAJ.
+9. N. Sadafi, E.@ I. Salleh, C.H. Lim, Z. Jaafar, Potential thermal impacts of internal courtyard in terrace houses: A case study in tropical climate, Journal of Applied Sciences. 8 (2008) 2770–2775. https://doi.org/10.3923/jas.2008.2770.2775.
+10. I.A. Meir, D. Pearlmutter, Y. Etzion, On the microclimatic behavior of two semi‑enclosed attached courtyards in a hot dry region, Building and Environment. 30 (1995) 563–572. https://doi.org/10.1016/0360‑1323(95)00018‑2.
+11. R. Ernest, B. Ford, The role of multiple‑courtyards in the promotion of convective cooling, Architectural Science Review. 55 (2012). https://doi.org/10.1080/00038628.2012.723400.

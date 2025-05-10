@@ -1,0 +1,22 @@
+# Goal-Driven Adjustments
+
+- # Thermal Comfort
+
+Tailor courtyard elements (shading, airflow, thermal mass) to human comfort needs. For cooling, maximize cross-ventilation and shade; for warmth, capture sun and retain heat. Use movable elements (blinds, awnings) as needed.
+
+{category: Goal-Driven Adjustments, sub_category: Thermal Comfort, climate_type: all, goal: Thermal Comfort}
+- # Daylighting
+
+Ensure courtyards introduce soft daylight into adjacent rooms without glare. A diffusing courtyard design (light-catching walls or a pergola) can scatter light inward, while deep frames or screens block direct glare.
+
+{category: Goal-Driven Adjustments, sub_category: Daylight, climate_type: all, goal: Daylight}
+- # Privacy
+
+Use courtyard layout and screening to buffer noise and visuals. For example, place private rooms around the courtyard with windows facing inward and high walls or landscaping to block street view.
+
+{category: Goal-Driven Adjustments, sub_category: Privacy, climate_type: all, goal: Privacy}
+- # Accessibility
+
+Design courtyard surfaces and levels for universal access. Provide wide, ramped pathways (≤1:12 slope), non-slip materials, and seating niches. Ensure entries and seating areas are barrier-free to accommodate wheelchairs and strollers.
+
+{category: Goal-Driven Adjustments, sub_category: Accessibility, climate_type: all, goal: Accessibility}

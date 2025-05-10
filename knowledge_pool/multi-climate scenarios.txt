@@ -1,0 +1,130 @@
+# Scenario 1: Hot-Arid Climate Courtyard (Cairo, Egypt)
+
+Total Courtyard Area: 500 - 1100 m²
+
+# Design Strategy
+
+Prioritize shading, evapotranspiration, and thermal mass.
+
+# Parameter Assignments:
+
+- out:permeable_area: (40.7%) — sand, gravel, and porous tiles
+- out:social_area: (11.1%) — shaded seating under pergolas
+- out:flower_area: (4.6%) — desert flowers and succulents
+- Out:calm_area: (11.1%) — fountain courtyard with stone benches
+- out:tree_number: 6 - 12 drought-resistant trees
+- out:UTCI_degree_trees: 27.2°C
+
+# Functional Uses:
+
+- Shaded Reading Nook: Calm area under dense canopy (60 m²) accommodates up to 6 people.
+- Prayer or Meditation Zone: Enclosed calm zone oriented away from noisy spaces.
+- Outdoor Classroom (Passive Cooling): Social area fits 12 seated users under partial roof.
+- Desert Garden Trail: Flower area serves as a linear experience path between calm and social zones.
+
+# Why This Works:
+
+- The high permeable_area mitigates radiant heating.
+- Trees lower UTCI by up to 4°C during peak hours, making reading and meditating viable during daytime.# Scenario 2: Hot-Humid Climate Courtyard (Jakarta, Indonesia)
+
+Total Courtyard Area: 400 - 800 m²
+
+# Design Strategy
+
+Promote airflow, use tall canopy trees, and integrate water features to reduce humidity.
+
+# Parameter Assignments
+
+- out:permeable_area: (22.2%) — stone pavers with grass joints
+- out:social_area: (29.6%) — bamboo deck with weather-resistant seating
+- out:flower_area: (9.9%) — native orchids and heliconia beds
+- out:calm_area: (19.8%) — water garden with shade trees
+- out:tree_number: 7 - 12 broadleaf tropical trees
+- out:UTCI_degree_trees: 29.6°C
+
+# Functional Uses
+
+- Children’s Nature Play Area: Social zone includes organic wooden elements, stepping logs, and misting fans.
+- Book Club Terrace: 5 benches under shade, with fans; suitable for small gatherings even on humid afternoons.
+- Meditation Pavilion: Calm area has stone circle with water feature and insect-repelling flora (lemongrass, citronella).
+- Pollinator Garden Path: Flower area supports butterflies and bees, with educational signage.
+
+# Why This Works- Wide canopy trees reduce UTCI and trap humidity aloft.
+- Program diversity ensures both quiet retreats and vibrant social opportunities.
+
+# Scenario 3: Temperate Climate Courtyard (Paris, France)
+
+Total Courtyard Area: 255 - 650 m²
+
+Design Strategy: Use seasonal foliage, soft paving, and layered programs.
+
+# Parameter Assignments:
+
+- out:permeable_area: (29.4%) — clay bricks and cobblestones
+- out:social_area: (23.5%) — circular plaza with café seating
+- out:flower_area: (19.6%) — perennial beds and roses
+- out:calm_area: (15.7%) — grassy knoll with benches
+- out:tree_number: 5 - 10 deciduous trees
+- out:UTCI_degree_trees: 23.4°C
+
+# Functional Uses:
+
+- Outdoor Exhibition Area: Social area doubles as art display plaza or market popup zone.
+- Shaded Reading Lawn: Calm zone under maple trees supports 4–5 hammocks or lounge chairs.
+- Children’s Garden Nook: Flower area features low planters and bird feeders.
+- Seasonal Events Platform: Modular pergola can host music, readings, or community dinners.
+
+# Why This Works:● Deciduous trees allow winter sun and summer shade.
+
+● High usability throughout the year with dynamic courtyard zoning.
+
+# Scenario 4: Cold Climate Courtyard (Helsinki, Finland)
+
+Total Courtyard Area: 300 - 800 m²
+
+Design Strategy: Maximize winter sun access, use wind breaks, and provide thermal comfort through materials.
+
+# Parameter Assignments:
+
+- out:permeable_area: (16.6%) — granite gravel walkways
+- out:social_area: (23.3%) — insulated wood seating with wind barriers
+- out:flower_area: (6.6%) — evergreen shrubs and winter berries
+- out:calm_area: (26.6%) — sunken firepit zone and thermal stone walls
+- out:tree_number: 4 - 8 cold-tolerant conifers
+- out:UTCI_degree_trees: 19.1°C
+
+# Functional Uses:
+
+- Winter Gathering Circle: Calm area with heated seating around firepit, usable even in snow.
+- Children’s Snow Play Patch: Permeable zone doubles as snow pile zone for informal play.
+- Sheltered Reading Bench: South-facing stone wall reflects sun to create a microclimate.
+- Berry Walkway: Flower beds provide edible plant experience in warmer months.
+
+# Why This Works:# Scenario 5: Mountain Climate Courtyard (Denver, USA)
+
+Total Courtyard Area: 485 - 900 m²
+
+Design Strategy: Balance snow melt, multi-season use, and strong solar orientation.
+
+# Parameter Assignments:
+
+- out:permeable_area: (26.8%) — gravel and flagstone
+- out:social_area: (22.7%) — timber deck with retractable awning
+- out:flower_area: (12.3%) — alpine plant clusters
+- out:calm_area: (20.6%) — bench-lined sun court
+- out:tree_number: 6 - 10 pine and spruce mix
+- out:UTCI_degree_trees: 22.7°C
+
+# Functional Uses:
+
+- Yoga & Movement Terrace: Calm area oriented toward sunrise for morning classes.
+- Community Potluck Zone: Social area accommodates 3–4 movable picnic tables.
+- Mountain Reading Pod: Small timber alcove with cushions and windbreak screen.
+- Butterfly Rocks Trail: Raised stone planters in flower area host butterflies and textured paths for sensory experience.
+
+# Why This Works:
+
+- Calm areas double as thermal refuges.
+- Wind shielding enables usability up to -10°C with appropriate design.● Pine needles reduce snow compaction and increase winter usability.
+
+● Area distribution suits year-round event and solo use.
